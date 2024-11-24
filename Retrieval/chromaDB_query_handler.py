@@ -36,7 +36,7 @@ def retrieve_documents(query, top_k):
         documents = get_documents(query, top_k)
         return documents
     except InvalidCollectionException:
-        print('No Chroma DB is found.!')
+        print('No Chroma DB is found.! Creating a new Chroma DB')
         create_client()
         setup_qanda_db()
         documents = get_documents(query, top_k)
