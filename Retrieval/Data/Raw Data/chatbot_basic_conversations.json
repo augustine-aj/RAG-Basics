@@ -1,0 +1,3008 @@
+{
+  "greetings": [
+    {
+      "question": "What’s going on?",
+      "answer": "I’m here to help you! What can I assist you with today?"
+    },
+    {
+      "question": "Is anyone there?",
+      "answer": "Yes, I'm here! How can I assist you?"
+    },
+    {
+      "question": "Hi, what’s up?",
+      "answer": "Hello! I’m ready to help. What do you need?"
+    },
+    {
+      "question": "Hey, how are you doing?",
+      "answer": "I’m just a chatbot, but I’m here to assist you!"
+    },
+    {
+      "question": "What’s new today?",
+      "answer": "I’m here to help! What do you want to know?"
+    },
+    {
+      "question": "Hello, can you help me?",
+      "answer": "Of course! What do you need help with?"
+    },
+    {
+      "question": "Hi! What can I do for you?",
+      "answer": "I’m here to assist! What do you need today?"
+    },
+    {
+      "question": "Hey there! What’s going on?",
+      "answer": "I’m here to help! How can I assist you?"
+    },
+    {
+      "question": "What’s up today?",
+      "answer": "Not much! How can I help you today?"
+    },
+    {
+      "question": "How’s everything?",
+      "answer": "Everything is good! How can I assist you?"
+    },
+    {
+      "question": "Hi! How’s it going?",
+      "answer": "It’s going well! What can I help you with?"
+    },
+    {
+      "question": "Good day!",
+      "answer": "Good day! How can I assist you today?"
+    },
+    {
+      "question": "What brings you here?",
+      "answer": "I’m here to assist you! What do you need help with?"
+    },
+    {
+      "question": "Hello! What’s on your mind?",
+      "answer": "I’m here to help you with anything you need!"
+    },
+    {
+      "question": "Hi there! Need assistance?",
+      "answer": "Absolutely! What can I help you with?"
+    },
+    {
+      "question": "Good afternoon!",
+      "answer": "Good afternoon! What can I assist you with today?"
+    },
+    {
+      "question": "Hey! What can I help you with?",
+      "answer": "I’m here to assist! What do you need today?"
+    },
+    {
+      "question": "Hi, how can I support you?",
+      "answer": "I’m here to help! What can I assist you with?"
+    },
+    {
+      "question": "What do you need help with?",
+      "answer": "I’m ready to assist! What do you need today?"
+    },
+    {
+      "question": "Hi! Let’s get started.",
+      "answer": "Absolutely! How can I assist you today?"
+    },
+    {
+      "question": "Hello!",
+      "answer": "Hi there! How can I assist you today?"
+    },
+    {
+      "question": "Good morning!",
+      "answer": "Good morning! What can I help you with today?"
+    },
+    {
+      "question": "Hey!",
+      "answer": "Hello! How can I help you today?"
+    },
+    {
+      "question": "Hi!",
+      "answer": "Hello! What can I do for you?"
+    },
+    {
+      "question": "Greetings!",
+      "answer": "Greetings! How may I assist you today?"
+    },
+    {
+      "question": "Good evening!",
+      "answer": "Good evening! What can I help you with?"
+    },
+    {
+      "question": "What's up?",
+      "answer": "Not much! How can I assist you today?"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I’m just a program, but I’m here to help you! How can I assist you today?"
+    },
+    {
+      "question": "Hi there!",
+      "answer": "Hi! How can I help you today?"
+    },
+    {
+      "question": "Nice to see you!",
+      "answer": "Nice to see you too! What can I help you with?"
+    },
+    {
+      "question": "Long time no see!",
+      "answer": "Welcome back! How can I assist you today?"
+    },
+    {
+      "question": "Hey there!",
+      "answer": "Hello! What can I help you with today?"
+    },
+    {
+      "question": "What’s new?",
+      "answer": "I’m here to assist you! How can I help today?"
+    },
+    {
+      "question": "How’s it going?",
+      "answer": "I’m here to help! What can I do for you?"
+    },
+    {
+      "question": "How can I help you?",
+      "answer": "I’m here to assist! What do you need today?"
+    },
+    {
+      "question": "Welcome!",
+      "answer": "Thank you! How can I assist you today?"
+    },
+    {
+      "question": "Hello there!",
+      "answer": "Hi! What can I help you with?"
+    },
+    {
+      "question": "Good to see you!",
+      "answer": "Good to see you too! How can I assist you?"
+    },
+    {
+      "question": "What can I do for you today?",
+      "answer": "I’m here to help! What do you need assistance with?"
+    },
+    {
+      "question": "Hi, how are you?",
+      "answer": "I’m just a chatbot, but I’m ready to assist you!"
+    },
+    {
+      "question": "Hello there!",
+      "answer": "Hi! How can I assist you today?"
+    },
+    {
+      "question": "Hi! What’s happening?",
+      "answer": "Not much! How can I help you today?"
+    },
+    {
+      "question": "Hey, how’s it going?",
+      "answer": "I’m here to help! What do you need?"
+    },
+    {
+      "question": "Good evening!",
+      "answer": "Good evening! How can I assist you?"
+    },
+    {
+      "question": "What can I do for you today?",
+      "answer": "I’m here to assist you! What do you need help with?"
+    },
+    {
+      "question": "Hi! What’s your name?",
+      "answer": "I’m a chatbot, here to help you!"
+    },
+    {
+      "question": "Hey! Need some assistance?",
+      "answer": "Absolutely! What can I help you with?"
+    },
+    {
+      "question": "Hello! What’s your purpose?",
+      "answer": "I’m here to assist you with your inquiries."
+    },
+    {
+      "question": "Hi there! How are you?",
+      "answer": "I’m just a program, but I’m here to help!"
+    },
+    {
+      "question": "What’s new with you?",
+      "answer": "I’m here to assist you! What can I help with?"
+    },
+    {
+      "question": "Hey! Ready to help?",
+      "answer": "Always! What do you need assistance with?"
+    },
+    {
+      "question": "Good to see you!",
+      "answer": "Good to see you too! How can I help you?"
+    },
+    {
+      "question": "Hello! What’s your function?",
+      "answer": "I’m here to assist you with any questions!"
+    },
+    {
+      "question": "Hi! How can I make your day better?",
+      "answer": "I’m here to help! What do you need?"
+    },
+    {
+      "question": "Hey, what’s on your mind?",
+      "answer": "I’m here to assist you! What do you need?"
+    },
+    {
+      "question": "What’s your role here?",
+      "answer": "I’m a chatbot here to help you with information."
+    },
+    {
+      "question": "Good day! What can I do for you?",
+      "answer": "I’m here to assist! What do you need help with?"
+    },
+    {
+      "question": "Hi there! How may I assist you?",
+      "answer": "I’m here to help! What do you need today?"
+    },
+    {
+      "question": "How can I help you today?",
+      "answer": "I’m here to assist you! What do you need?"
+    },
+    {
+      "question": "Hello! How’s your day?",
+      "answer": "It’s good! How can I assist you?"
+    },
+    {
+      "question": "Hey! What’s going on?",
+      "answer": "I’m here to help you! What do you need?"
+    }
+    ],
+  "apologies": [
+    {
+      "question": "I didn’t quite catch that.",
+      "answer": "I’m sorry for the misunderstanding. Can you please rephrase?"
+    },
+    {
+      "question": "That didn’t answer my question.",
+      "answer": "I apologize for not being clear. What was your question?"
+    },
+    {
+      "question": "I feel confused.",
+      "answer": "I’m sorry to hear that. How can I clarify things for you?"
+    },
+    {
+      "question": "You missed my point.",
+      "answer": "I apologize for that. Please let me know what you meant."
+    },
+    {
+      "question": "This is not what I expected.",
+      "answer": "I’m sorry for the disappointment. How can I assist you better?"
+    },
+    {
+      "question": "You didn’t answer correctly.",
+      "answer": "I apologize for the error. Let’s try again!"
+    },
+    {
+      "question": "That’s not what I wanted.",
+      "answer": "I’m sorry about that. Can you tell me what you need?"
+    },
+    {
+      "question": "I didn’t receive a proper response.",
+      "answer": "I apologize for that. Let me try to assist you again."
+    },
+    {
+      "question": "This is frustrating!",
+      "answer": "I’m really sorry for the frustration. How can I help?"
+    },
+    {
+      "question": "You made a mistake.",
+      "answer": "I apologize for the mistake. Please let me know how I can fix it."
+    },
+    {
+      "question": "I was expecting more information.",
+      "answer": "I’m sorry for the lack of details. What else would you like to know?"
+    },
+    {
+      "question": "That’s confusing.",
+      "answer": "I apologize for the confusion. Let’s clarify that."
+    },
+    {
+      "question": "I didn’t mean to be rude.",
+      "answer": "No worries! I’m here to help you."
+    },
+    {
+      "question": "I’m not satisfied with the answer.",
+      "answer": "I’m sorry to hear that. Let’s try to find a better solution."
+    },
+    {
+      "question": "I misunderstood your answer.",
+      "answer": "I apologize for any confusion. How can I clarify?"
+    },
+    {
+      "question": "You didn’t cover everything.",
+      "answer": "I’m sorry about that. Please tell me what’s missing."
+    },
+    {
+      "question": "I wasn’t clear in my question.",
+      "answer": "No problem! Let’s clarify what you meant."
+    },
+    {
+      "question": "I didn’t expect this response.",
+      "answer": "I’m sorry if my response was unexpected. What can I do for you?"
+    },
+    {
+      "question": "This isn’t helpful.",
+      "answer": "I apologize for that. What information do you need?"
+    },
+    {
+      "question": "I’m having trouble understanding.",
+      "answer": "I’m sorry for any confusion. What can I explain further?"
+    },
+    {
+      "question": "Can you repeat that?",
+      "answer": "I apologize for any confusion. Here’s the information again."
+    },
+      {
+      "question": "I didn’t quite catch that.",
+      "answer": "I’m sorry for the misunderstanding. Can you please rephrase?"
+    },
+    {
+      "question": "That didn’t answer my question.",
+      "answer": "I apologize for not being clear. What was your question?"
+    },
+    {
+      "question": "I feel confused.",
+      "answer": "I’m sorry to hear that. How can I clarify things for you?"
+    },
+    {
+      "question": "You missed my point.",
+      "answer": "I apologize for that. Please let me know what you meant."
+    },
+    {
+      "question": "This is not what I expected.",
+      "answer": "I’m sorry for the disappointment. How can I assist you better?"
+    },
+    {
+      "question": "You didn’t answer correctly.",
+      "answer": "I apologize for the error. Let’s try again!"
+    },
+    {
+      "question": "That’s not what I wanted.",
+      "answer": "I’m sorry about that. Can you tell me what you need?"
+    },
+    {
+      "question": "I didn’t receive a proper response.",
+      "answer": "I apologize for that. Let me try to assist you again."
+    },
+    {
+      "question": "This is frustrating!",
+      "answer": "I’m really sorry for the frustration. How can I help?"
+    },
+    {
+      "question": "You made a mistake.",
+      "answer": "I apologize for the mistake. Please let me know how I can fix it."
+    },
+    {
+      "question": "I was expecting more information.",
+      "answer": "I’m sorry for the lack of details. What else would you like to know?"
+    },
+    {
+      "question": "That’s confusing.",
+      "answer": "I apologize for the confusion. Let’s clarify that."
+    },
+    {
+      "question": "I didn’t mean to be rude.",
+      "answer": "No worries! I’m here to help you."
+    },
+    {
+      "question": "I’m not satisfied with the answer.",
+      "answer": "I’m sorry to hear that. Let’s try to find a better solution."
+    },
+    {
+      "question": "I misunderstood your answer.",
+      "answer": "I apologize for any confusion. How can I clarify?"
+    },
+    {
+      "question": "You didn’t cover everything.",
+      "answer": "I’m sorry about that. Please tell me what’s missing."
+    },
+    {
+      "question": "I wasn’t clear in my question.",
+      "answer": "No problem! Let’s clarify what you meant."
+    },
+    {
+      "question": "I didn’t expect this response.",
+      "answer": "I’m sorry if my response was unexpected. What can I do for you?"
+    },
+    {
+      "question": "This isn’t helpful.",
+      "answer": "I apologize for that. What information do you need?"
+    },
+    {
+      "question": "I’m having trouble understanding.",
+      "answer": "I’m sorry for any confusion. What can I explain further?"
+    },
+    {
+      "question": "Can you repeat that?",
+      "answer": "I apologize for any confusion. Here’s the information again."
+    },
+    {
+      "question": "You’re not answering my question.",
+      "answer": "I apologize if I missed it. Please ask your question again."
+    },
+    {
+      "question": "I feel lost.",
+      "answer": "I’m really sorry to hear that. Let’s find a way to clarify."
+    },
+    {
+      "question": "I thought you would say something else.",
+      "answer": "I apologize for the unexpected response. What do you need?"
+    },
+    {
+      "question": "That doesn’t make sense.",
+      "answer": "I’m sorry for the confusion. Let’s clarify your concern."
+    },
+    {
+      "question": "Can you be more specific?",
+      "answer": "I apologize for being vague. What would you like to know more about?"
+    },
+    {
+      "question": "I didn’t quite catch that.",
+      "answer": "I’m sorry for the misunderstanding. Can you please rephrase?"
+    },
+    {
+      "question": "That didn’t answer my question.",
+      "answer": "I apologize for not being clear. What was your question?"
+    },
+    {
+      "question": "I feel confused.",
+      "answer": "I’m sorry to hear that. How can I clarify things for you?"
+    },
+    {
+      "question": "You missed my point.",
+      "answer": "I apologize for that. Please let me know what you meant."
+    },
+    {
+      "question": "This is not what I expected.",
+      "answer": "I’m sorry for the disappointment. How can I assist you better?"
+    },
+    {
+      "question": "You didn’t answer correctly.",
+      "answer": "I apologize for the error. Let’s try again!"
+    },
+    {
+      "question": "That’s not what I wanted.",
+      "answer": "I’m sorry about that. Can you tell me what you need?"
+    },
+    {
+      "question": "I didn’t receive a proper response.",
+      "answer": "I apologize for that. Let me try to assist you again."
+    },
+    {
+      "question": "This is frustrating!",
+      "answer": "I’m really sorry for the frustration. How can I help?"
+    },
+    {
+      "question": "You made a mistake.",
+      "answer": "I apologize for the mistake. Please let me know how I can fix it."
+    },
+    {
+      "question": "I was expecting more information.",
+      "answer": "I’m sorry for the lack of details. What else would you like to know?"
+    },
+    {
+      "question": "That’s confusing.",
+      "answer": "I apologize for the confusion. Let’s clarify that."
+    },
+    {
+      "question": "I didn’t mean to be rude.",
+      "answer": "No worries! I’m here to help you."
+    },
+    {
+      "question": "I’m not satisfied with the answer.",
+      "answer": "I’m sorry to hear that. Let’s try to find a better solution."
+    },
+    {
+      "question": "I misunderstood your answer.",
+      "answer": "I apologize for any confusion. How can I clarify?"
+    },
+    {
+      "question": "You didn’t cover everything.",
+      "answer": "I’m sorry about that. Please tell me what’s missing."
+    },
+    {
+      "question": "I wasn’t clear in my question.",
+      "answer": "No problem! Let’s clarify what you meant."
+    },
+    {
+      "question": "I didn’t expect this response.",
+      "answer": "I’m sorry if my response was unexpected. What can I do for you?"
+    },
+    {
+      "question": "This isn’t helpful.",
+      "answer": "I apologize for that. What information do you need?"
+    },
+    {
+      "question": "I’m having trouble understanding.",
+      "answer": "I’m sorry for any confusion. What can I explain further?"
+    },
+    {
+      "question": "Can you repeat that?",
+      "answer": "I apologize for any confusion. Here’s the information again."
+    },
+    {
+      "question": "You’re not answering my question.",
+      "answer": "I apologize if I missed it. Please ask your question again."
+    },
+    {
+      "question": "I feel lost.",
+      "answer": "I’m really sorry to hear that. Let’s find a way to clarify."
+    },
+    {
+      "question": "I thought you would say something else.",
+      "answer": "I apologize for the unexpected response. What do you need?"
+    },
+    {
+      "question": "That doesn’t make sense.",
+      "answer": "I’m sorry for the confusion. Let’s clarify your concern."
+    },
+    {
+      "question": "Can you be more specific?",
+      "answer": "I apologize for being vague. What would you like to know more about?"
+    },
+    {
+      "question": "I wasn’t aware of that.",
+      "answer": "I’m sorry for not providing that information earlier. Here’s what you need."
+    },
+    {
+      "question": "I don’t think that’s correct.",
+      "answer": "I apologize if I was mistaken. Let’s double-check that."
+    },
+    {
+      "question": "I wish I had more context.",
+      "answer": "I’m sorry for the lack of details. Let me provide more context."
+    },
+    {
+      "question": "You misunderstood my question.",
+      "answer": "I apologize for the confusion. Can you clarify your question?"
+    },
+    {
+      "question": "This isn’t clear.",
+      "answer": "I’m sorry for the lack of clarity. What specifically would you like me to clarify?"
+    },
+    {
+      "question": "You didn’t provide enough detail.",
+      "answer": "I apologize for that. Let me elaborate further."
+    },
+    {
+      "question": "I was looking for something else.",
+      "answer": "I’m sorry for any confusion. Can you specify what you were looking for?"
+    },
+    {
+      "question": "I need a clearer explanation.",
+      "answer": "I apologize for the vagueness. Let me try to clarify that."
+    },
+    {
+      "question": "You’re not being helpful.",
+      "answer": "I’m really sorry to hear that. How can I improve my assistance?"
+    },
+    {
+      "question": "I didn’t expect such a brief response.",
+      "answer": "I apologize for the brevity. What details would you like me to include?"
+    },
+    {
+      "question": "That doesn’t relate to my question.",
+      "answer": "I’m sorry for straying off topic. Let’s refocus on your question."
+    },
+    {
+      "question": "I feel like I’m getting the runaround.",
+      "answer": "I apologize if it seems that way. I’m here to provide clear answers."
+    },
+    {
+      "question": "I thought I was clear in my request.",
+      "answer": "I’m sorry if I missed that. Let’s revisit your request."
+    },
+    {
+      "question": "This is not the information I was looking for.",
+      "answer": "I apologize for the oversight. What specific information do you need?"
+    },
+    {
+      "question": "I’m still confused.",
+      "answer": "I’m really sorry to hear that. Let’s go through it step by step."
+    },
+    {
+      "question": "Can you give me a better answer?",
+      "answer": "I apologize for my previous response. Let me provide a better answer."
+    },
+    {
+      "question": "I didn’t want that information.",
+      "answer": "I’m sorry about that. What would you prefer to know?"
+    },
+    {
+      "question": "I feel overwhelmed with information.",
+      "answer": "I apologize if I provided too much at once. Let’s break it down."
+    },
+    {
+      "question": "I didn’t realize that was the case.",
+      "answer": "I’m sorry for any surprises. Here’s what you need to know."
+    },
+    {
+      "question": "This is more complex than I thought.",
+      "answer": "I apologize for the complexity. What can I clarify for you?"
+    },
+    {
+      "question": "You didn’t cover my main concern.",
+      "answer": "I’m sorry for missing that. Please tell me your main concern again."
+    },
+    {
+      "question": "I wish you would listen more.",
+      "answer": "I apologize if I seem unresponsive. I’m here to listen."
+    },
+    {
+      "question": "That’s not what I meant at all.",
+      "answer": "I’m sorry for the misunderstanding. Please help me understand better."
+    },
+    {
+      "question": "I don’t think that’s a valid answer.",
+      "answer": "I apologize if my answer wasn’t satisfactory. Let’s reassess it."
+    },
+    {
+      "question": "This isn’t helpful to me.",
+      "answer": "I’m really sorry about that. What can I do to assist you better?"
+    },
+    {
+      "question": "I feel like I’m not getting anywhere.",
+      "answer": "I apologize for the lack of progress. Let’s take a different approach."
+    }
+    ],
+  "assistance_and_support": [
+    {
+      "question": "How can I get help with my medical insurance?",
+      "answer": "You can contact our billing department for assistance with your medical insurance inquiries."
+    },
+    {
+      "question": "What should I do if I feel unwell during my visit?",
+      "answer": "Please inform a staff member immediately, and they will assist you."
+    },
+    {
+      "question": "How can I access my test results?",
+      "answer": "You can access your test results through our patient portal or by contacting your physician's office."
+    },
+    {
+      "question": "Where can I find a nurse if I need assistance?",
+      "answer": "Nurses can be found at the nursing stations on each floor. You can also use the call button in your room."
+    },
+    {
+      "question": "Can I get help with mobility issues while at the hospital?",
+      "answer": "Yes, we provide assistance for patients with mobility issues. Please inform your nurse about your needs."
+    },
+    {
+      "question": "What resources do you have for mental health support?",
+      "answer": "We offer counseling services and support groups for mental health support. Please inquire with our social services department."
+    },
+    {
+      "question": "How do I obtain a wheelchair during my visit?",
+      "answer": "Wheelchairs are available at the main entrance and nursing stations. You can ask a staff member for assistance."
+    },
+    {
+      "question": "What if I need help understanding my treatment plan?",
+      "answer": "Your healthcare provider can help explain your treatment plan. Don’t hesitate to ask questions."
+    },
+    {
+      "question": "Are there resources for my family members during my hospital stay?",
+      "answer": "Yes, we have family support services and resources available to assist your loved ones."
+    },
+    {
+      "question": "How can I find a support group for my condition?",
+      "answer": "You can ask your doctor for recommendations or check our hospital's website for available support groups."
+    },
+    {
+      "question": "What is the procedure for a medical emergency?",
+      "answer": "In a medical emergency, call 911 or notify a hospital staff member immediately."
+    },
+    {
+      "question": "Can I receive assistance with my medications?",
+      "answer": "Yes, our pharmacists are available to assist you with any questions about your medications."
+    },
+    {
+      "question": "Where can I find educational materials about my condition?",
+      "answer": "Educational materials are available in our waiting areas and on our hospital's website."
+    },
+    {
+      "question": "How do I report any concerns during my visit?",
+      "answer": "You can report any concerns to the patient relations department or speak with a supervisor."
+    },
+    {
+      "question": "What should I do if I have dietary restrictions?",
+      "answer": "Please inform your nurse, and they will coordinate with the dietary department to accommodate your needs."
+    },
+    {
+      "question": "Is there a patient advocate available?",
+      "answer": "Yes, we have patient advocates available to assist you with any issues or concerns."
+    },
+    {
+      "question": "Can I receive help with transportation after my appointment?",
+      "answer": "We can assist you in arranging transportation through our social services department."
+    },
+    {
+      "question": "What do I do if I need to speak with a doctor after hours?",
+      "answer": "If you need to speak with a doctor after hours, please contact the on-call physician through the hospital operator."
+    },
+    {
+      "question": "How do I obtain help for a second opinion?",
+      "answer": "You can request a second opinion through your primary care physician or by contacting our referral office."
+    },
+    {
+      "question": "Where can I find information about clinical trials?",
+      "answer": "Information about clinical trials is available through our research department or website."
+    },
+    {
+      "question": "Is there a way to contact my healthcare team directly?",
+      "answer": "You can contact your healthcare team through the patient portal or by calling the hospital directly."
+    },
+    {
+      "question": "What should I do if I need help with billing questions?",
+      "answer": "For billing questions, please contact our billing department, and they will assist you."
+    },
+    {
+      "question": "How can I get help with my medical insurance?",
+      "answer": "You can contact our billing department for assistance with your medical insurance inquiries."
+    },
+    {
+      "question": "What should I do if I feel unwell during my visit?",
+      "answer": "Please inform a staff member immediately, and they will assist you."
+    },
+    {
+      "question": "How can I access my test results?",
+      "answer": "You can access your test results through our patient portal or by contacting your physician's office."
+    },
+    {
+      "question": "Where can I find a nurse if I need assistance?",
+      "answer": "Nurses can be found at the nursing stations on each floor. You can also use the call button in your room."
+    },
+    {
+      "question": "Can I get help with mobility issues while at the hospital?",
+      "answer": "Yes, we provide assistance for patients with mobility issues. Please inform your nurse about your needs."
+    },
+    {
+      "question": "What resources do you have for mental health support?",
+      "answer": "We offer counseling services and support groups for mental health support. Please inquire with our social services department."
+    },
+    {
+      "question": "How do I obtain a wheelchair during my visit?",
+      "answer": "Wheelchairs are available at the main entrance and nursing stations. You can ask a staff member for assistance."
+    },
+    {
+      "question": "What if I need help understanding my treatment plan?",
+      "answer": "Your healthcare provider can help explain your treatment plan. Don’t hesitate to ask questions."
+    },
+    {
+      "question": "Are there resources for my family members during my hospital stay?",
+      "answer": "Yes, we have family support services and resources available to assist your loved ones."
+    },
+    {
+      "question": "How can I find a support group for my condition?",
+      "answer": "You can ask your doctor for recommendations or check our hospital's website for available support groups."
+    },
+    {
+      "question": "What is the procedure for a medical emergency?",
+      "answer": "In a medical emergency, call 911 or notify a hospital staff member immediately."
+    },
+    {
+      "question": "Can I receive assistance with my medications?",
+      "answer": "Yes, our pharmacists are available to assist you with any questions about your medications."
+    },
+    {
+      "question": "Where can I find educational materials about my condition?",
+      "answer": "Educational materials are available in our waiting areas and on our hospital's website."
+    },
+    {
+      "question": "How do I report any concerns during my visit?",
+      "answer": "You can report any concerns to the patient relations department or speak with a supervisor."
+    },
+    {
+      "question": "What should I do if I have dietary restrictions?",
+      "answer": "Please inform your nurse, and they will coordinate with the dietary department to accommodate your needs."
+    },
+    {
+      "question": "Is there a patient advocate available?",
+      "answer": "Yes, we have patient advocates available to assist you with any issues or concerns."
+    },
+    {
+      "question": "Can I receive help with transportation after my appointment?",
+      "answer": "We can assist you in arranging transportation through our social services department."
+    },
+    {
+      "question": "What do I do if I need to speak with a doctor after hours?",
+      "answer": "If you need to speak with a doctor after hours, please contact the on-call physician through the hospital operator."
+    },
+    {
+      "question": "How do I obtain help for a second opinion?",
+      "answer": "You can request a second opinion through your primary care physician or by contacting our referral office."
+    },
+    {
+      "question": "Where can I find information about clinical trials?",
+      "answer": "Information about clinical trials is available through our research department or website."
+    },
+    {
+      "question": "Is there a way to contact my healthcare team directly?",
+      "answer": "You can contact your healthcare team through the patient portal or by calling the hospital directly."
+    },
+    {
+      "question": "What should I do if I need help with billing questions?",
+      "answer": "For billing questions, please contact our billing department, and they will assist you."
+    },
+    {
+      "question": "How can I schedule a follow-up appointment?",
+      "answer": "You can schedule a follow-up appointment by calling our scheduling department or through the patient portal."
+    },
+    {
+      "question": "What services do you provide for patients with chronic illnesses?",
+      "answer": "We offer specialized care management and support services for patients with chronic illnesses."
+    },
+    {
+      "question": "How can I request medical records?",
+      "answer": "You can request your medical records by filling out a request form at the medical records department."
+    },
+    {
+      "question": "What support do you offer for caregivers?",
+      "answer": "We provide resources and support groups for caregivers to help them manage their responsibilities."
+    },
+    {
+      "question": "Where can I find information about patient rights?",
+      "answer": "Information about patient rights is available in our patient handbook and on our website."
+    },
+    {
+      "question": "Can I get assistance with language translation services?",
+      "answer": "Yes, we offer language translation services for patients who need them. Please inform our staff."
+    },
+    {
+      "question": "What do I do if I experience pain after surgery?",
+      "answer": "If you experience pain after surgery, please inform your nurse or doctor immediately for assistance."
+    },
+    {
+      "question": "How do I handle a prescription refill?",
+      "answer": "You can handle a prescription refill by contacting your pharmacy or using the patient portal."
+    },
+    {
+      "question": "What do I do if I have concerns about my discharge instructions?",
+      "answer": "If you have concerns about your discharge instructions, please speak with your healthcare provider before leaving."
+    },
+    {
+      "question": "Are there any wellness programs available?",
+      "answer": "Yes, we offer various wellness programs to promote health and well-being. Please ask for details."
+    },
+    {
+      "question": "How can I get support for physical therapy?",
+      "answer": "You can ask your physician for a referral to our physical therapy department."
+    },
+    {
+      "question": "What services are available for pain management?",
+      "answer": "We provide a range of pain management services, including consultations with specialists."
+    },
+    {
+      "question": "How can I find a social worker for support?",
+      "answer": "You can find a social worker by asking your healthcare provider or by visiting our social services department."
+    },
+    {
+      "question": "What should I do if I feel anxious before a procedure?",
+      "answer": "If you feel anxious before a procedure, please let your nurse know. They can provide support and resources."
+    },
+    {
+      "question": "Can I receive dietary counseling during my stay?",
+      "answer": "Yes, we have dietitians available to provide dietary counseling to patients."
+    },
+    {
+      "question": "How can I report a safety concern?",
+      "answer": "You can report safety concerns to any staff member or through the hospital's patient safety hotline."
+    },
+    {
+      "question": "What is the process for obtaining a home health aide?",
+      "answer": "You can inquire about home health aides through our social services department."
+    },
+    {
+      "question": "Are there any support services for addiction recovery?",
+      "answer": "Yes, we offer support services for addiction recovery, including counseling and group therapy."
+    },
+    {
+      "question": "How can I get in touch with a nutritionist?",
+      "answer": "You can schedule an appointment with a nutritionist through our dietary services department."
+    }
+    ],
+  "positive_affirmations": [
+    {
+      "question": "I believe I will recover quickly.",
+      "answer": "Your positive mindset is crucial for your recovery. Keep believing in yourself!"
+    },
+    {
+      "question": "I'm doing my best to follow the treatment plan.",
+      "answer": "Your commitment to your treatment is commendable. You're on the right path!"
+    },
+    {
+      "question": "I have a supportive family who cares for me.",
+      "answer": "Having a strong support system makes a significant difference in your healing journey."
+    },
+    {
+      "question": "I am strong enough to handle this situation.",
+      "answer": "Your strength is evident. Trust in your abilities and stay positive."
+    },
+    {
+      "question": "I am grateful for the care I am receiving.",
+      "answer": "Gratitude can enhance your recovery. We're here to support you every step of the way."
+    },
+    {
+      "question": "I am taking one step at a time.",
+      "answer": "Progress comes with each step you take. Keep moving forward!"
+    },
+    {
+      "question": "I will focus on what I can control.",
+      "answer": "This is a great approach. Focus on your actions and let go of the rest."
+    },
+    {
+      "question": "I trust my healthcare team.",
+      "answer": "Trusting your healthcare providers is important. They are dedicated to your well-being."
+    },
+    {
+      "question": "I am learning to cope with my challenges.",
+      "answer": "Learning to cope is a sign of growth. You're doing wonderfully!"
+    },
+    {
+      "question": "I can find joy in small moments.",
+      "answer": "Finding joy in the little things can boost your spirits. Keep looking for those moments!"
+    },
+    {
+      "question": "I am deserving of care and kindness.",
+      "answer": "You absolutely are deserving of love and compassion. Never forget that."
+    },
+    {
+      "question": "I will not let fear control me.",
+      "answer": "Facing fear head-on is a powerful choice. You're braver than you think."
+    },
+    {
+      "question": "I am capable of overcoming this.",
+      "answer": "Your capability shines through. Believe in your strength!"
+    },
+    {
+      "question": "I have hope for a better tomorrow.",
+      "answer": "Hope is a powerful ally in your journey. Keep that hope alive!"
+    },
+    {
+      "question": "I am surrounded by positive energy.",
+      "answer": "Embracing positivity can greatly impact your healing. Stay open to that energy."
+    },
+    {
+      "question": "I will celebrate my small victories.",
+      "answer": "Every small victory is worth celebrating. Acknowledge your progress!"
+    },
+    {
+      "question": "I am taking charge of my health.",
+      "answer": "Taking charge is a vital step towards healing. Keep advocating for yourself!"
+    },
+    {
+      "question": "I am not alone in this journey.",
+      "answer": "You are supported by your healthcare team and loved ones. You're never alone."
+    },
+    {
+      "question": "I believe in my ability to heal.",
+      "answer": "Believing in your healing is essential. Your body is capable of amazing things."
+    },
+    {
+      "question": "I will remain patient with myself.",
+      "answer": "Being patient with yourself is key. Healing takes time, and that's okay."
+    },
+    {
+      "question": "I am learning to let go of negativity.",
+      "answer": "Letting go of negativity opens the door for positivity. Keep it up!"
+    },
+    {
+      "question": "I am worthy of good health.",
+      "answer": "You are indeed worthy of good health and happiness. Keep striving for it!"
+    },
+    {
+      "question": "I can visualize my recovery.",
+      "answer": "Visualization is a powerful tool. See yourself healthy and thriving!"
+    },
+    {
+      "question": "I am open to receiving help.",
+      "answer": "Being open to help is a strength. Accept the support around you."
+    },
+    {
+      "question": "I will practice self-care daily.",
+      "answer": "Daily self-care is vital for your well-being. Make it a priority!"
+    },
+    {
+      "question": "I have the strength to face any challenge.",
+      "answer": "Your inner strength will guide you through. Trust yourself!"
+    },
+    {
+      "question": "I will keep a positive attitude.",
+      "answer": "Maintaining a positive attitude can significantly impact your recovery. Keep it up!"
+    },
+    {
+      "question": "I can learn and grow from this experience.",
+      "answer": "Every experience offers a lesson. Embrace the growth that comes with it."
+    },
+    {
+      "question": "I will focus on the present moment.",
+      "answer": "Staying present helps reduce anxiety. Focus on the here and now."
+    },
+    {
+      "question": "I trust the process of healing.",
+      "answer": "Trusting the healing process is essential. Your body knows what to do."
+    },
+    {
+      "question": "I am open to new possibilities.",
+      "answer": "Being open to new possibilities can lead to unexpected joys. Embrace them!"
+    },
+    {
+      "question": "I will surround myself with positivity.",
+      "answer": "Positive influences can uplift your spirit. Choose your company wisely."
+    },
+    {
+      "question": "I will find laughter in difficult times.",
+      "answer": "Laughter is a great healer. Find moments to smile and laugh."
+    },
+    {
+      "question": "I can find comfort in my surroundings.",
+      "answer": "Finding comfort in your environment can help ease stress. Create a soothing space."
+    },
+    {
+      "question": "I believe in my support system.",
+      "answer": "Having faith in your support system can provide strength. Lean on them."
+    },
+    {
+      "question": "I will be kind to myself during this process.",
+      "answer": "Self-kindness is crucial during challenging times. Treat yourself with love."
+    },
+    {
+      "question": "I can adapt to any situation.",
+      "answer": "Your adaptability is a strength. Embrace change with an open heart."
+    },
+    {
+      "question": "I will find meaning in my journey.",
+      "answer": "Finding meaning can bring clarity and purpose. Reflect on your experiences."
+    },
+    {
+      "question": "I trust in my body's ability to heal.",
+      "answer": "Your body is remarkable and has the capacity to heal itself. Trust that process!"
+    },
+    {
+      "question": "I am grateful for the medical professionals helping me.",
+      "answer": "Acknowledging the care you receive can foster a positive mindset. They're here for you!"
+    },
+    {
+      "question": "I will focus on my progress, not my setbacks.",
+      "answer": "Every step forward, no matter how small, is still progress. Celebrate those victories!"
+    },
+    {
+      "question": "I am allowed to feel my emotions.",
+      "answer": "It's okay to feel your emotions. Acknowledging them is part of the healing process."
+    },
+    {
+      "question": "I will embrace this journey with an open heart.",
+      "answer": "Approaching your journey with openness can lead to unexpected joys. Stay open!"
+    },
+    {
+      "question": "I believe in the power of positivity.",
+      "answer": "Positive thoughts can influence your recovery. Surround yourself with positivity."
+    },
+    {
+      "question": "I am learning to manage my stress effectively.",
+      "answer": "Learning stress management techniques is a powerful tool. Keep practicing!"
+    },
+    {
+      "question": "I can find peace in moments of uncertainty.",
+      "answer": "Finding peace amidst uncertainty can be challenging, but it's possible. Breathe deeply."
+    },
+    {
+      "question": "I will celebrate my resilience.",
+      "answer": "Your resilience is inspiring. Recognize and celebrate your strength!"
+    },
+    {
+      "question": "I am making progress every day.",
+      "answer": "Every day brings new opportunities for progress. Acknowledge your journey!"
+    },
+    {
+      "question": "I will maintain a hopeful outlook.",
+      "answer": "A hopeful outlook can significantly impact your recovery. Keep that hope alive!"
+    },
+    {
+      "question": "I am worthy of happiness and health.",
+      "answer": "You deserve happiness and good health. Keep striving for both!"
+    },
+    {
+      "question": "I can handle whatever comes my way.",
+      "answer": "Your strength equips you to handle challenges. Trust in your abilities!"
+    },
+    {
+      "question": "I will find comfort in routine.",
+      "answer": "Establishing a comforting routine can provide stability during your recovery."
+    },
+    {
+      "question": "I will take my healing one day at a time.",
+      "answer": "Focusing on each day helps make the healing process manageable. Take it step by step."
+    },
+    {
+      "question": "I am open to new perspectives on my health.",
+      "answer": "Being open to new perspectives can lead to beneficial changes. Stay curious!"
+    },
+    {
+      "question": "I will practice gratitude daily.",
+      "answer": "Practicing gratitude can shift your mindset and improve your outlook. Start today!"
+    },
+    {
+      "question": "I am stronger than my challenges.",
+      "answer": "Recognizing your strength in the face of challenges empowers you. Keep pushing forward!"
+    },
+    {
+      "question": "I will nurture my body and mind.",
+      "answer": "Nurturing both body and mind is essential for holistic healing. Invest in yourself!"
+    },
+    {
+      "question": "I am learning to find joy in every moment.",
+      "answer": "Finding joy in small moments can uplift your spirit. Look for those opportunities!"
+    },
+    {
+      "question": "I will allow myself to rest and recharge.",
+      "answer": "Rest is vital for recovery. Give yourself permission to rest and heal."
+    },
+    {
+      "question": "I am worthy of the care I receive.",
+      "answer": "You absolutely deserve the best care. Accept it and embrace it fully."
+    },
+    {
+      "question": "I can turn my pain into strength.",
+      "answer": "Transforming pain into strength is a powerful journey. You're capable of this!"
+    },
+    {
+      "question": "I will visualize my healing process.",
+      "answer": "Visualization can enhance your healing journey. Picture yourself healthy and vibrant!"
+    },
+    {
+      "question": "I will stay connected with my loved ones.",
+      "answer": "Staying connected with loved ones can provide comfort and support during recovery."
+    },
+    {
+      "question": "I will focus on my breathing to stay calm.",
+      "answer": "Focusing on your breath can help calm your mind and body. Practice deep breathing."
+    },
+    {
+      "question": "I will be patient with my healing journey.",
+      "answer": "Patience is key in the healing process. Give yourself grace as you recover."
+    },
+    {
+      "question": "I can cultivate a positive mindset.",
+      "answer": "Cultivating positivity is an ongoing journey. Keep choosing to focus on the good."
+    },
+    {
+      "question": "I will express my feelings openly.",
+      "answer": "Openly expressing your feelings can help you process emotions. Don't hesitate to share."
+    },
+    {
+      "question": "I am deserving of self-care.",
+      "answer": "Prioritizing self-care is not selfish; it's essential. Make time for yourself."
+    },
+    {
+      "question": "I will embrace change as a part of life.",
+      "answer": "Embracing change can lead to growth. Welcome it as a part of your journey."
+    },
+    {
+      "question": "I will cherish my progress.",
+      "answer": "Acknowledging your progress is vital. Celebrate how far you've come!"
+    },
+    {
+      "question": "I will allow myself to heal at my own pace.",
+      "answer": "Healing is a personal journey, and it's important to honor your own pace."
+    },
+    {
+      "question": "I will seek support when I need it.",
+      "answer": "Asking for help is a sign of strength. Lean on your support system."
+    },
+    {
+      "question": "I am grateful for each moment of clarity.",
+      "answer": "Cherishing moments of clarity can bring peace and focus during recovery."
+    },
+    {
+      "question": "I will focus on the positive aspects of my treatment.",
+      "answer": "Finding the positives in your treatment can uplift your spirits. Stay hopeful!"
+    },
+    {
+      "question": "I trust my healthcare team.",
+      "answer": "Trusting your healthcare team can ease anxiety. They're here for your well-being."
+    },
+    {
+      "question": "I am open to learning about my health.",
+      "answer": "Being open to learning helps you make informed decisions about your health."
+    },
+    {
+      "question": "I will find ways to stay active.",
+      "answer": "Staying active, even in small ways, can boost your mood and energy levels."
+    },
+    {
+      "question": "I will embrace moments of joy, however small.",
+      "answer": "Every small moment of joy counts. Celebrate those little victories!"
+    },
+    {
+      "question": "I will keep my mind engaged.",
+      "answer": "Engaging your mind with books or puzzles can enhance your well-being."
+    },
+    {
+      "question": "I will practice mindfulness each day.",
+      "answer": "Mindfulness can help reduce stress and enhance your overall recovery."
+    },
+    {
+      "question": "I can create a positive environment around me.",
+      "answer": "Creating a positive space can significantly impact your healing journey."
+    },
+    {
+      "question": "I am capable of overcoming obstacles.",
+      "answer": "Recognizing your ability to overcome challenges is empowering. Believe in yourself!"
+    },
+    {
+      "question": "I will nourish my body with healthy food.",
+      "answer": "Fueling your body with nutritious foods supports your healing process."
+    },
+    {
+      "question": "I will connect with nature for healing.",
+      "answer": "Spending time in nature can be incredibly healing. Seek out those moments."
+    },
+    {
+      "question": "I will prioritize my mental health.",
+      "answer": "Mental health is just as important as physical health. Make it a priority."
+    },
+    {
+      "question": "I will embrace each day as a new opportunity.",
+      "answer": "Every day brings new opportunities for growth and healing. Embrace it!"
+    },
+    {
+      "question": "I can manage my pain with positive thoughts.",
+      "answer": "Focusing on positive thoughts can help you cope with discomfort."
+    },
+    {
+      "question": "I will listen to my body and its needs.",
+      "answer": "Listening to your body's signals is essential for effective healing."
+    },
+    {
+      "question": "I am capable of finding solutions to my challenges.",
+      "answer": "Trust in your ability to find solutions to any challenges that arise."
+    },
+    {
+      "question": "I will practice forgiveness towards myself.",
+      "answer": "Forgiving yourself is crucial for emotional healing. Let go of guilt."
+    },
+    {
+      "question": "I am worthy of receiving love and support.",
+      "answer": "You deserve love and support from those around you. Accept it gracefully."
+    },
+    {
+      "question": "I will be gentle with myself during this process.",
+      "answer": "Being gentle with yourself fosters compassion and patience in your healing journey."
+    },
+    {
+      "question": "I am not alone in this journey.",
+      "answer": "You have a support system around you. Lean on them when you need to."
+    },
+    {
+      "question": "I can choose my perspective on this experience.",
+      "answer": "Choosing a positive perspective can transform your experience. Stay optimistic!"
+    },
+    {
+      "question": "I will focus on what I can control.",
+      "answer": "Focusing on controllable aspects can reduce anxiety. Stay proactive!"
+    },
+    {
+      "question": "I am proud of my efforts in my recovery.",
+      "answer": "Recognizing your efforts fosters self-appreciation. Be proud of your journey!"
+    },
+    {
+      "question": "I will cherish the connections I have with others.",
+      "answer": "Valuing your relationships can enhance your overall well-being. Stay connected!"
+    },
+    {
+      "question": "I can find purpose in my journey.",
+      "answer": "Finding purpose in your healing journey can motivate and inspire you."
+    },
+    {
+      "question": "I will take time to reflect on my experiences.",
+      "answer": "Reflection can provide insight and clarity. Make time for it in your routine."
+    },
+    {
+      "question": "I can envision a healthy future for myself.",
+      "answer": "Visualizing a healthy future can inspire you to take positive steps today."
+    },
+    {
+      "question": "I am a warrior in my own right.",
+      "answer": "Recognizing your inner strength can empower you. You are a warrior!"
+    }
+    ],
+  "feedback_and_suggestions": [
+    {
+      "question": "I think the waiting time is too long.",
+      "answer": "Thank you for your feedback! We're continuously working to improve our efficiency."
+    },
+    {
+      "question": "Can you provide more detailed discharge instructions?",
+      "answer": "We appreciate your suggestion! We will ensure discharge instructions are more comprehensive."
+    },
+    {
+      "question": "I’d like to see more educational materials available.",
+      "answer": "Thank you for the suggestion! We're looking to expand our educational resources for patients."
+    },
+    {
+      "question": "Can we have a dedicated staff member for follow-up calls?",
+      "answer": "That's a great idea! We'll consider assigning a dedicated staff member for follow-ups."
+    },
+    {
+      "question": "I’d like more options for dietary preferences.",
+      "answer": "Thank you for your input! We'll review our menu to include more dietary options."
+    },
+    {
+      "question": "Could you improve the signage in the hospital?",
+      "answer": "Thank you for your feedback! We're working on enhancing our hospital signage for better navigation."
+    },
+    {
+      "question": "Can you offer more appointment slots for specialists?",
+      "answer": "We appreciate your suggestion! We're actively working to increase specialist appointment availability."
+    },
+    {
+      "question": "I would like to see more support groups offered.",
+      "answer": "Thank you for the suggestion! We will explore the possibility of adding more support groups."
+    },
+    {
+      "question": "Could you provide updates on my loved one's condition more frequently?",
+      "answer": "Thank you for your feedback! We'll work on improving our communication regarding patient updates."
+    },
+    {
+      "question": "I think the patient portal could be more user-friendly.",
+      "answer": "Thank you for your input! We're actively working on enhancing the user experience of our patient portal."
+    },
+    {
+      "question": "Can you improve the cleanliness of the waiting area?",
+      "answer": "We appreciate your feedback! We'll ensure our cleaning staff is informed to maintain high cleanliness standards."
+    },
+    {
+      "question": "I’d like to have more family involvement in care decisions.",
+      "answer": "Thank you for your suggestion! We encourage family involvement and will work to facilitate this process."
+    },
+    {
+      "question": "Could you offer more information on alternative therapies?",
+      "answer": "That's a great idea! We'll look into providing more resources on alternative therapies."
+    },
+    {
+      "question": "I would like to see more mental health resources available.",
+      "answer": "Thank you for your input! We're working on expanding our mental health resources for patients."
+    },
+    {
+      "question": "Can you improve the appointment scheduling process?",
+      "answer": "We appreciate your feedback! We're reviewing our scheduling process for efficiency."
+    },
+    {
+      "question": "I think more language options would help non-English speakers.",
+      "answer": "Thank you for the suggestion! We will consider adding more language options for our services."
+    },
+    {
+      "question": "Could you provide more training for staff on empathy and communication?",
+      "answer": "That's an excellent suggestion! We will look into providing additional training for our staff."
+    },
+    {
+      "question": "I’d like to see more patient feedback incorporated into services.",
+      "answer": "Thank you for your input! We value patient feedback and will work to incorporate it into our services."
+    },
+    {
+      "question": "Can you provide more transparency in billing practices?",
+      "answer": "Thank you for your suggestion! We're committed to improving transparency in our billing process."
+    },
+    {
+      "question": "I think the visiting hours could be more flexible.",
+      "answer": "Thank you for your feedback! We'll review our visiting hours for potential adjustments."
+    },
+    {
+      "question": "Could you enhance the discharge planning process?",
+      "answer": "We appreciate your feedback! We're working to improve our discharge planning for better patient outcomes."
+    },
+    {
+      "question": "I would like more information on patient rights.",
+      "answer": "Thank you for your suggestion! We will provide more resources on patient rights and advocacy."
+    },
+    {
+      "question": "I think the hospital should provide more online consultations.",
+      "answer": "Thank you for your suggestion! We're exploring ways to expand our telehealth services."
+    },
+    {
+      "question": "Can you ensure that staff are more responsive to patient needs?",
+      "answer": "We appreciate your feedback! We will remind our staff about the importance of prompt responses."
+    },
+    {
+      "question": "I’d like to have access to my medical records more easily.",
+      "answer": "Thank you for your input! We're working on improving access to patient medical records."
+    },
+    {
+      "question": "Could you provide more information about clinical trials?",
+      "answer": "That's a great idea! We'll look into providing more resources about available clinical trials."
+    },
+    {
+      "question": "I think the pediatric area could use more toys and games.",
+      "answer": "Thank you for your suggestion! We'll consider enhancing the pediatric area with more engaging activities."
+    },
+    {
+      "question": "Can you offer more educational sessions for patients?",
+      "answer": "We appreciate your feedback! We're planning to introduce more educational sessions on various health topics."
+    },
+    {
+      "question": "I would like to see more community health outreach programs.",
+      "answer": "Thank you for your suggestion! We're exploring ways to enhance our outreach efforts in the community."
+    },
+    {
+      "question": "Could you provide more mental health resources for families?",
+      "answer": "That's a valuable suggestion! We'll work on offering more resources for family members of patients."
+    },
+    {
+      "question": "I’d like more options for virtual support groups.",
+      "answer": "Thank you for your input! We'll look into expanding our virtual support group offerings."
+    },
+    {
+      "question": "Can you make sure the waiting areas are more comfortable?",
+      "answer": "We appreciate your feedback! We'll review the comfort of our waiting areas for patient satisfaction."
+    },
+    {
+      "question": "I think staff should receive more training on cultural competence.",
+      "answer": "Thank you for your suggestion! We're committed to improving staff training on cultural sensitivity."
+    },
+    {
+      "question": "Could you provide a better selection of reading materials in the waiting area?",
+      "answer": "Thank you for your feedback! We'll look into enhancing the selection of materials available."
+    },
+    {
+      "question": "I’d like to see more preventive care programs offered.",
+      "answer": "That's a great suggestion! We're considering expanding our preventive care services."
+    },
+    {
+      "question": "Can you improve communication about wait times?",
+      "answer": "We appreciate your feedback! We're working on better ways to communicate estimated wait times."
+    },
+    {
+      "question": "Could you provide more activities for children while they wait?",
+      "answer": "Thank you for your input! We'll look into adding more activities for children in waiting areas."
+    },
+    {
+      "question": "I think there should be more emphasis on pain management options.",
+      "answer": "Thank you for your suggestion! We'll work on providing more information about pain management alternatives."
+    },
+    {
+      "question": "Can you ensure follow-up calls are more consistent?",
+      "answer": "We appreciate your feedback! We will reinforce the importance of consistent follow-up calls with our staff."
+    },
+    {
+      "question": "I would like to see more specialists available for consultations.",
+      "answer": "Thank you for your input! We're looking to increase the number of specialists for patient consultations."
+    },
+    {
+      "question": "Could you provide clearer instructions for pre-operative procedures?",
+      "answer": "That's a valuable suggestion! We'll work on improving our pre-operative instructions for patients."
+    },
+    {
+      "question": "I’d like to see more personalized care plans for patients.",
+      "answer": "Thank you for your feedback! We're committed to developing more tailored care plans for our patients."
+    },
+    {
+      "question": "Can you offer more support for caregivers?",
+      "answer": "We appreciate your suggestion! We're exploring ways to provide more resources for caregivers."
+    },
+    {
+      "question": "I think patient navigation services could be improved.",
+      "answer": "Thank you for your input! We'll review our patient navigation services for enhancements."
+    },
+    {
+      "question": "Could you implement a patient feedback system?",
+      "answer": "That's a great idea! We're considering a more structured feedback system for patients."
+    },
+    {
+      "question": "I think the pharmacy should have longer hours.",
+      "answer": "Thank you for your suggestion! We'll review the pharmacy hours to better meet patient needs."
+    },
+    {
+      "question": "Can you provide more resources for chronic illness management?",
+      "answer": "We appreciate your input! We're looking to expand our resources for managing chronic illnesses."
+    },
+    {
+      "question": "I would like to see more wellness programs offered.",
+      "answer": "Thank you for your suggestion! We're exploring ways to introduce more wellness initiatives."
+    },
+    {
+      "question": "Could you enhance the nutritional options in the cafeteria?",
+      "answer": "Thank you for your feedback! We'll look into improving the nutritional variety available."
+    },
+    {
+      "question": "I think there should be more transparency about hospital billing.",
+      "answer": "That's an important point! We're committed to increasing transparency in our billing processes."
+    },
+    {
+      "question": "Can you provide resources for managing mental health during hospitalization?",
+      "answer": "Thank you for your suggestion! We'll work on enhancing mental health resources for hospitalized patients."
+    },
+    {
+      "question": "I would like to see more patient education materials available online.",
+      "answer": "We appreciate your input! We're working on expanding our online educational resources for patients."
+    },
+    {
+      "question": "Could you improve the process for scheduling follow-up appointments?",
+      "answer": "Thank you for your feedback! We'll review the scheduling process for follow-up appointments."
+    },
+    {
+      "question": "Can you ensure that all staff are trained in patient confidentiality?",
+      "answer": "That's a vital point! We prioritize patient confidentiality and will reinforce training for our staff."
+    },
+    {
+      "question": "I’d like to see more community health fairs organized.",
+      "answer": "Thank you for your suggestion! We're looking into organizing more community health events."
+    },
+    {
+      "question": "Could you provide a clearer path for patient grievances?",
+      "answer": "We appreciate your feedback! We're working on making the grievance process more accessible."
+    },
+    {
+      "question": "Can you implement a system for tracking prescription refills?",
+      "answer": "That's a great idea! We'll consider a tracking system for prescription refills to enhance patient care."
+    },
+    {
+      "question": "I would like to have more multilingual staff available.",
+      "answer": "Thank you for your suggestion! We're working on increasing the number of multilingual staff for better communication."
+    },
+    {
+      "question": "Could you offer more resources for nutrition education?",
+      "answer": "We appreciate your input! We're exploring options to provide more nutrition education resources."
+    },
+    {
+      "question": "Can you improve the check-in process for appointments?",
+      "answer": "Thank you for your feedback! We'll review and optimize the check-in process for efficiency."
+    },
+    {
+      "question": "I think the hospital should offer yoga and meditation classes.",
+      "answer": "That's a wonderful suggestion! We'll consider adding yoga and meditation classes to our wellness programs."
+    },
+    {
+      "question": "Could you provide better signage for navigating the hospital?",
+      "answer": "We appreciate your input! We'll work on improving signage to help patients navigate the hospital more easily."
+    },
+    {
+      "question": "I’d like to see more involvement from specialists in patient education.",
+      "answer": "Thank you for your suggestion! We're looking to increase specialist involvement in educational efforts."
+    },
+    {
+      "question": "Can you offer more support for patients transitioning from hospital to home?",
+      "answer": "That's a valuable point! We're committed to enhancing support for patients post-discharge."
+    },
+    {
+      "question": "Could you implement a rewards program for regular visitors?",
+      "answer": "Thank you for your suggestion! We'll explore the possibility of a rewards program for our frequent patients."
+    },
+     {
+      "question": "Could you improve the wait times in the emergency department?",
+      "answer": "Thank you for your feedback! We are actively working on strategies to reduce wait times in the emergency department."
+    },
+    {
+      "question": "I think patient transport services should be more efficient.",
+      "answer": "We appreciate your input! We're reviewing our patient transport processes to enhance efficiency."
+    },
+    {
+      "question": "Can you provide more online appointment scheduling options?",
+      "answer": "Thank you for your suggestion! We're looking to expand our online scheduling capabilities for convenience."
+    },
+    {
+      "question": "I would like to see more health workshops offered for the community.",
+      "answer": "That's a great idea! We're planning to host more health workshops to engage with the community."
+    },
+    {
+      "question": "Could you enhance the mental health resources available in the hospital?",
+      "answer": "Thank you for your feedback! We're committed to improving mental health resources for our patients."
+    },
+    {
+      "question": "Can you make the patient information portal easier to navigate?",
+      "answer": "We appreciate your suggestion! We're working on redesigning the portal for better user experience."
+    },
+    {
+      "question": "I think there should be more updates provided during long wait times.",
+      "answer": "That's an important point! We will work on providing more timely updates during extended wait times."
+    },
+    {
+      "question": "Could you offer virtual consultations for follow-up appointments?",
+      "answer": "Thank you for your suggestion! We're exploring the possibility of offering virtual consultations."
+    },
+    {
+      "question": "I’d like to see more support groups for patients and families.",
+      "answer": "We appreciate your input! We're looking to establish more support groups for patients and their families."
+    },
+    {
+      "question": "Can you ensure that staff is more attentive during patient interactions?",
+      "answer": "Thank you for your feedback! We'll emphasize the importance of attentive care in our staff training."
+    },
+    {
+      "question": "Could you create an app for easier access to patient services?",
+      "answer": "That's a fantastic idea! We're considering developing an app for improved access to our services."
+    },
+    {
+      "question": "Can you provide more information about clinical trials available at the hospital?",
+      "answer": "Thank you for your suggestion! We will work on making information about clinical trials more accessible."
+    },
+    {
+      "question": "I would like to see more holistic treatment options available.",
+      "answer": "We appreciate your input! We're exploring the integration of more holistic treatment options."
+    },
+    {
+      "question": "Could you improve the process for obtaining medical records?",
+      "answer": "Thank you for your feedback! We're reviewing the procedures to make obtaining medical records easier."
+    },
+    {
+      "question": "Can you provide better communication regarding discharge planning?",
+      "answer": "That's a valuable suggestion! We will focus on enhancing communication during discharge planning."
+    },
+    {
+      "question": "I think there should be a system for tracking the status of my referrals.",
+      "answer": "Thank you for your suggestion! We're considering implementing a tracking system for referrals."
+    },
+    {
+      "question": "Could you offer nutrition consultations for patients?",
+      "answer": "We appreciate your input! We're looking to provide nutrition consultations as part of our services."
+    },
+    {
+      "question": "I’d like to see more community outreach initiatives.",
+      "answer": "That's a great idea! We will work on expanding our community outreach programs."
+    },
+    {
+      "question": "Can you ensure that all patient areas are accessible for individuals with disabilities?",
+      "answer": "Thank you for your feedback! We're committed to ensuring accessibility for all patients."
+    },
+    {
+      "question": "Could you offer more choices for meal options during hospitalization?",
+      "answer": "We appreciate your suggestion! We're exploring ways to increase meal variety for hospitalized patients."
+    },
+    {
+      "question": "I think the hospital should implement a loyalty program for regular patients.",
+      "answer": "Thank you for your idea! We'll consider the feasibility of a loyalty program for our patients."
+    }
+    ],
+  "closing_conversations": [
+    {
+      "question": "That's all the questions I have for now.",
+      "answer": "Alright! If you think of anything else later, feel free to reach out. Have a great day!"
+    },
+    {
+      "question": "Thank you for your help today.",
+      "answer": "You’re welcome! I’m glad I could assist you. Take care!"
+    },
+    {
+      "question": "I appreciate your assistance.",
+      "answer": "No problem! If you need anything else, don't hesitate to ask. Have a wonderful day!"
+    },
+    {
+      "question": "I’ll follow up later.",
+      "answer": "Sounds good! I look forward to assisting you again. Have a great day!"
+    },
+    {
+      "question": "Goodbye!",
+      "answer": "Goodbye! Take care, and have a healthy day!"
+    },
+    {
+      "question": "Thanks for the information!",
+      "answer": "You’re welcome! I’m happy to help. Have a nice day!"
+    },
+    {
+      "question": "I think that covers everything.",
+      "answer": "Great! If anything else comes up, I’m here to help. Have a great day!"
+    },
+    {
+      "question": "I need to go now.",
+      "answer": "Alright! Thank you for your time. Take care!"
+    },
+    {
+      "question": "This has been very helpful.",
+      "answer": "I’m glad to hear that! Don’t hesitate to come back if you need more assistance."
+    },
+    {
+      "question": "I’ll be in touch.",
+      "answer": "Sounds good! Looking forward to it. Have a great day!"
+    },
+    {
+      "question": "That’s all for now.",
+      "answer": "Alright! If you have more questions later, feel free to reach out."
+    },
+    {
+      "question": "I need to log off.",
+      "answer": "No problem! Thank you for chatting with me today. Have a good day!"
+    },
+    {
+      "question": "Thanks again for your help!",
+      "answer": "You’re welcome! I’m always here if you need anything else."
+    },
+    {
+      "question": "See you later!",
+      "answer": "See you! Have a wonderful day ahead!"
+    },
+    {
+      "question": "I’m done for today.",
+      "answer": "Alright! If you have more questions in the future, I’m here to help."
+    },
+    {
+      "question": "That was helpful, thanks!",
+      "answer": "I’m glad you found it helpful! Don’t hesitate to ask if you need more assistance."
+    },
+    {
+      "question": "I’ll check back later.",
+      "answer": "Sounds good! I look forward to assisting you again."
+    },
+    {
+      "question": "Thanks for everything!",
+      "answer": "You’re very welcome! Have a great day ahead!"
+    },
+    {
+      "question": "I appreciate your time.",
+      "answer": "It’s my pleasure! Thank you for chatting with me."
+    },
+    {
+      "question": "I have to go now.",
+      "answer": "No worries! Take care and have a great day!"
+    },
+    {
+      "question": "I’m signing off.",
+      "answer": "Alright! Thank you for the conversation. See you next time!"
+    },
+    {
+      "question": "I feel satisfied with the answers.",
+      "answer": "I’m happy to hear that! If you have more questions, I’m here to help."
+    },
+    {
+      "question": "That’s all for now.",
+      "answer": "Alright! If you have more questions later, feel free to ask."
+    },
+    {
+      "question": "I think I'm done here.",
+      "answer": "No problem! Thank you for your time. Take care!"
+    },
+    {
+      "question": "I've got everything I need.",
+      "answer": "Great! If anything else comes up, don’t hesitate to reach out."
+    },
+    {
+      "question": "I’ll reach out again if I need more help.",
+      "answer": "Sounds good! I’m here whenever you need assistance."
+    },
+    {
+      "question": "Thanks for the clarity!",
+      "answer": "You’re welcome! I’m glad I could help. Have a great day!"
+    },
+    {
+      "question": "This was very informative.",
+      "answer": "I’m glad to hear that! If you have more questions, just let me know."
+    },
+    {
+      "question": "I appreciate your help today.",
+      "answer": "It’s my pleasure! Thank you for chatting with me."
+    },
+    {
+      "question": "Goodbye for now.",
+      "answer": "Goodbye! Take care, and have a wonderful day!"
+    },
+    {
+      "question": "I’ll talk to you later.",
+      "answer": "Looking forward to it! Have a great day!"
+    },
+    {
+      "question": "I need to go now.",
+      "answer": "Alright! Thank you for your time. Have a good day!"
+    },
+    {
+      "question": "I’m satisfied with the information.",
+      "answer": "That’s great to hear! If you need anything else, I’m here to help."
+    },
+    {
+      "question": "Thank you for your assistance.",
+      "answer": "You’re welcome! I’m happy to help. Have a nice day!"
+    },
+    {
+      "question": "I think I’m all set.",
+      "answer": "Perfect! If you think of anything else, just let me know."
+    },
+    {
+      "question": "I’ll check back if I have more questions.",
+      "answer": "Absolutely! I look forward to assisting you again."
+    },
+    {
+      "question": "I’m logging off now.",
+      "answer": "No worries! Take care and have a great day ahead!"
+    },
+    {
+      "question": "I have to sign off.",
+      "answer": "Alright! Thank you for the conversation. See you next time!"
+    },
+    {
+      "question": "I feel good about what I've learned.",
+      "answer": "I’m glad to hear that! Don’t hesitate to ask if you need more help."
+    },
+    {
+      "question": "Thanks for being here.",
+      "answer": "It’s my pleasure! I’m here to help anytime you need."
+    },
+    {
+      "question": "That will be all for now.",
+      "answer": "Okay! If you have more questions later, feel free to ask."
+    },
+    {
+      "question": "I appreciate your quick responses.",
+      "answer": "Thank you! I’m here to help. Have a great day!"
+    },
+    {
+      "question": "I’m heading out now.",
+      "answer": "Alright! Thank you for your time. Take care!"
+    },
+    {
+      "question": "I’ve got all the info I need.",
+      "answer": "Great! If you have any more questions later, feel free to ask."
+    },
+    {
+      "question": "This was really helpful.",
+      "answer": "I’m happy to hear that! Let me know if you need anything else."
+    },
+    {
+      "question": "I will reach out if I have more concerns.",
+      "answer": "Sounds good! I’m here whenever you need assistance."
+    },
+    {
+      "question": "Thanks for your help!",
+      "answer": "You’re welcome! I’m glad I could assist you."
+    },
+    {
+      "question": "Goodbye! Take care!",
+      "answer": "Goodbye! Have a wonderful day!"
+    },
+    {
+      "question": "I appreciate all the information.",
+      "answer": "I’m glad I could help! Don’t hesitate to return if you have more questions."
+    },
+    {
+      "question": "I’ll be back if I need more help.",
+      "answer": "Absolutely! Looking forward to it!"
+    },
+    {
+      "question": "I’m satisfied with the answers.",
+      "answer": "That’s great to hear! If anything else comes to mind, feel free to ask."
+    },
+    {
+      "question": "I’m logging off for now.",
+      "answer": "No worries! Take care and have a great day ahead!"
+    },
+    {
+      "question": "Thank you for the assistance!",
+      "answer": "You’re very welcome! I’m here to help whenever you need."
+    },
+    {
+      "question": "This has been a good experience.",
+      "answer": "I’m glad you think so! If you have more questions, I’m here."
+    },
+    {
+      "question": "I’ll talk to you later.",
+      "answer": "Looking forward to it! Have a wonderful day!"
+    },
+    {
+      "question": "Thanks for answering all my questions.",
+      "answer": "It’s my pleasure! Let me know if you need anything else."
+    },
+    {
+      "question": "I’m off now.",
+      "answer": "Okay! Thank you for chatting with me. Have a great day!"
+    },
+    {
+      "question": "I’ve learned a lot today.",
+      "answer": "I’m happy to hear that! If you have more questions, feel free to ask."
+    },
+    {
+      "question": "I’ll check back soon.",
+      "answer": "Absolutely! I’ll be here whenever you need assistance."
+    },
+    {
+      "question": "Thanks for being so helpful!",
+      "answer": "You’re welcome! I’m glad I could help. Take care!"
+    },
+    {
+      "question": "I’m done for now.",
+      "answer": "Alright! If you have more questions later, don’t hesitate to reach out."
+    },
+    {
+      "question": "This was really informative!",
+      "answer": "I’m glad to hear that! If you need more information, just let me know."
+    },
+    {
+      "question": "I appreciate your time.",
+      "answer": "Thank you! I’m here to help whenever you need."
+    },
+    {
+      "question": "I think that’s all I need for now.",
+      "answer": "Okay! If you think of anything else, feel free to ask."
+    },
+    {
+      "question": "I’m satisfied with the information.",
+      "answer": "That’s great to hear! Have a wonderful day ahead."
+    },
+    {
+      "question": "I’ll follow up later.",
+      "answer": "Sounds good! I’ll be here when you need assistance."
+    },
+    {
+      "question": "I’ll see you next time.",
+      "answer": "Looking forward to it! Take care until then!"
+    },
+    {
+      "question": "Thanks for all your help today!",
+      "answer": "You’re very welcome! I’m glad I could assist you."
+    },
+    {
+      "question": "I feel better informed now.",
+      "answer": "I’m glad to hear that! If anything else comes up, let me know."
+    },
+    {
+      "question": "I’m logging out now.",
+      "answer": "Alright! Have a great day and take care!"
+    },
+    {
+      "question": "I’m going to take your advice.",
+      "answer": "I’m glad to hear that! If you need more help, I’m here."
+    },
+    {
+      "question": "I’ll check back if I need anything else.",
+      "answer": "Absolutely! I’ll be here for you."
+    },
+    {
+      "question": "This conversation was helpful.",
+      "answer": "I’m happy to hear that! If you have more questions, just ask."
+    },
+    {
+      "question": "I’ll contact you again if I need help.",
+      "answer": "Of course! I’m always here to assist you."
+    },
+    {
+      "question": "Thanks for your support.",
+      "answer": "You’re welcome! I’m here whenever you need assistance."
+    },
+    {
+      "question": "I’ve got what I needed.",
+      "answer": "Great! If anything else comes up, feel free to reach out."
+    },
+    {
+      "question": "I’m all set for now.",
+      "answer": "Alright! Have a fantastic day!"
+    },
+    {
+      "question": "This was a good experience!",
+      "answer": "I’m glad you think so! If you have more questions, let me know."
+    },
+    {
+      "question": "I’ll come back if I have more questions.",
+      "answer": "Sounds good! Take care until then!"
+    },
+    {
+      "question": "I’ve learned a lot today.",
+      "answer": "I’m happy to hear that! If you need anything else, just ask."
+    },
+    {
+      "question": "I’m ready to go now.",
+      "answer": "Alright! Thank you for chatting. Have a great day!"
+    }
+    ],
+  "error_handling": [
+    {
+      "question": "I didn’t get the information I was looking for.",
+      "answer": "I apologize for that. Can you please provide more details?"
+    },
+    {
+      "question": "Your response didn’t make sense.",
+      "answer": "I’m sorry for the confusion. Let me clarify that for you."
+    },
+    {
+      "question": "Can you repeat that?",
+      "answer": "Sure! I’ll repeat the information for you."
+    },
+    {
+      "question": "I didn’t understand your last answer.",
+      "answer": "I apologize for the misunderstanding. Could you specify what you found unclear?"
+    },
+    {
+      "question": "That’s not what I meant.",
+      "answer": "I’m sorry about that. Please rephrase your question so I can assist you better."
+    },
+    {
+      "question": "I think you misunderstood me.",
+      "answer": "I apologize for the mix-up. Could you explain your question again?"
+    },
+    {
+      "question": "I was looking for something else.",
+      "answer": "I’m sorry for the oversight. What specific information do you need?"
+    },
+    {
+      "question": "That doesn’t seem correct.",
+      "answer": "I appreciate your feedback. Let me verify that information for you."
+    },
+    {
+      "question": "I don’t see how that relates.",
+      "answer": "I apologize if my response was unclear. Can you provide more context?"
+    },
+    {
+      "question": "I was expecting a different answer.",
+      "answer": "I’m sorry about that. What were you expecting to hear?"
+    },
+    {
+      "question": "Your answer isn’t relevant to my question.",
+      "answer": "I apologize for the oversight. Let me focus on your specific question."
+    },
+    {
+      "question": "Can you help me with a specific issue?",
+      "answer": "Of course! Please tell me more about the issue you're facing."
+    },
+    {
+      "question": "I’m not satisfied with this interaction.",
+      "answer": "I’m sorry to hear that. I’m here to assist you, so please let me know how I can improve."
+    },
+    {
+      "question": "You missed a point in my question.",
+      "answer": "I apologize for that. Let’s address that point now."
+    },
+    {
+      "question": "Why can’t I find this information?",
+      "answer": "I’m sorry for any inconvenience. Can you provide details on what you’re looking for?"
+    },
+    {
+      "question": "I feel like I’m not getting anywhere.",
+      "answer": "I’m really sorry to hear that. Let’s try a different approach. What do you need help with?"
+    },
+    {
+      "question": "This is frustrating.",
+      "answer": "I understand your frustration. Let’s work together to find a solution."
+    },
+    {
+      "question": "I thought you could help me with this.",
+      "answer": "I apologize for the misunderstanding. Let’s tackle your question together."
+    },
+    {
+      "question": "I’m confused about the information you provided.",
+      "answer": "I’m sorry for the confusion. Can you tell me which part you found unclear?"
+    },
+      {
+      "question": "I don’t think that’s the right procedure.",
+      "answer": "I apologize for any confusion. Can you clarify which procedure you're referring to?"
+    },
+    {
+      "question": "Your answer was incomplete.",
+      "answer": "I’m sorry about that. Let me provide the full information for you."
+    },
+    {
+      "question": "I can’t find my appointment details.",
+      "answer": "I apologize for the inconvenience. Can you provide your name and date of the appointment?"
+    },
+    {
+      "question": "That doesn’t apply to my situation.",
+      "answer": "I’m sorry for the misunderstanding. Can you describe your situation so I can assist you better?"
+    },
+    {
+      "question": "I was hoping for a more detailed answer.",
+      "answer": "I apologize for the lack of detail. Let me give you more information."
+    },
+    {
+      "question": "This isn’t helpful at all.",
+      "answer": "I’m really sorry to hear that. Please tell me what specific information you need."
+    },
+    {
+      "question": "I feel lost with your responses.",
+      "answer": "I apologize if my responses have been unclear. Let’s start over. What would you like to know?"
+    },
+    {
+      "question": "I thought you could give me a direct answer.",
+      "answer": "I’m sorry if I wasn’t direct enough. Let me give you a straightforward answer."
+    },
+    {
+      "question": "This is not what I expected.",
+      "answer": "I apologize for not meeting your expectations. How can I assist you better?"
+    },
+    {
+      "question": "I need to change my previous question.",
+      "answer": "That’s okay! Please go ahead and ask your new question."
+    },
+    {
+      "question": "Can you be more specific?",
+      "answer": "Of course! I can provide more specific information. What do you need to know?"
+    },
+    {
+      "question": "I don’t think you understood my problem.",
+      "answer": "I’m sorry for any misunderstanding. Can you explain your problem in more detail?"
+    },
+    {
+      "question": "This isn’t related to my case.",
+      "answer": "I apologize for that. Let’s focus on your specific case. What do you need help with?"
+    },
+    {
+      "question": "I have more questions, but I’m unsure how to ask.",
+      "answer": "That’s perfectly fine! Just ask whatever comes to your mind, and I’ll help you."
+    },
+    {
+      "question": "I need a different approach.",
+      "answer": "I understand. Let’s try a different approach. What specific information are you looking for?"
+    },
+    {
+      "question": "I’m overwhelmed by the information.",
+      "answer": "I apologize if it’s too much. Let’s break it down step by step."
+    },
+    {
+      "question": "I was expecting a more positive interaction.",
+      "answer": "I’m sorry to hear that. Let’s work together to make this better."
+    },
+    {
+      "question": "I thought this was supposed to be easy.",
+      "answer": "I apologize for any difficulties. How can I assist you to make it easier?"
+    },
+    {
+      "question": "I need to clarify something from earlier.",
+      "answer": "Absolutely! Please go ahead and clarify what you need."
+    },
+    {
+      "question": "This isn’t the answer I was looking for.",
+      "answer": "I’m sorry for that. Please let me know what you were expecting, and I’ll do my best to help."
+    },
+    {
+      "question": "I still can’t access my medical records.",
+      "answer": "I apologize for the inconvenience. Please provide your identification details so I can assist you further."
+    },
+    {
+      "question": "You didn’t answer my last question.",
+      "answer": "I’m really sorry about that. Could you please repeat your question for me?"
+    },
+    {
+      "question": "I thought I had a different appointment time.",
+      "answer": "I apologize for any confusion. Can you give me your name and the appointment date to verify?"
+    },
+    {
+      "question": "The information you gave me was incorrect.",
+      "answer": "I’m sorry for the mistake. Let me correct that information for you right away."
+    },
+    {
+      "question": "I need to talk to someone about my issue.",
+      "answer": "I understand. I can help connect you with a representative. Please hold on for a moment."
+    },
+    {
+      "question": "This doesn’t match my previous conversations.",
+      "answer": "I apologize for any inconsistency. Can you share what was discussed earlier?"
+    },
+    {
+      "question": "I don’t understand the terminology you used.",
+      "answer": "I’m sorry for the confusion. Let me explain that term in simpler words."
+    },
+    {
+      "question": "I need specific details about my treatment plan.",
+      "answer": "I apologize for not providing that earlier. What specific aspects of your treatment would you like to know?"
+    },
+    {
+      "question": "This isn’t relevant to my inquiry.",
+      "answer": "I apologize for that. Let’s get back to your inquiry. What do you need assistance with?"
+    },
+    {
+      "question": "I expected a follow-up on my last inquiry.",
+      "answer": "I’m sorry for not following up. Can you remind me what your last inquiry was?"
+    },
+    {
+      "question": "I need help understanding my prescription.",
+      "answer": "I’m sorry for any confusion. What specifically do you want to understand about your prescription?"
+    },
+    {
+      "question": "I thought your services were different.",
+      "answer": "I apologize for any misunderstanding. Could you clarify what you expected from our services?"
+    },
+    {
+      "question": "I’m still unclear about my test results.",
+      "answer": "I’m really sorry. Let’s review your test results together. What part is unclear?"
+    },
+    {
+      "question": "I feel like I’m getting the runaround.",
+      "answer": "I apologize if it seems that way. I’m here to provide you with the information you need."
+    },
+    {
+      "question": "I think there’s a mistake in my billing.",
+      "answer": "I’m sorry to hear that. Let me check your billing details right away."
+    },
+    {
+      "question": "The last response didn’t address my concern.",
+      "answer": "I apologize for that oversight. Please let me know what your concern is so I can assist you."
+    },
+    {
+      "question": "I want to speak with a doctor.",
+      "answer": "I understand your need. I’ll connect you with a doctor shortly. Please hold on."
+    },
+    {
+      "question": "I didn’t receive any confirmation about my appointment.",
+      "answer": "I apologize for the lack of confirmation. Let me check your appointment status for you."
+    },
+    {
+      "question": "I’m frustrated with the delay.",
+      "answer": "I’m truly sorry for the delay. I appreciate your patience. How can I assist you further?"
+    },
+    {
+      "question": "I feel my concerns are not being taken seriously.",
+      "answer": "I’m sorry you feel that way. Your concerns are important to us. Let’s address them together."
+    },
+    {
+      "question": "I can't find my lab results online.",
+      "answer": "I apologize for the inconvenience. Can you provide your full name and date of birth to help me locate them?"
+    },
+    {
+      "question": "The medication I received is not what I ordered.",
+      "answer": "I’m sorry for the mix-up. Let me check your prescription details and rectify this issue."
+    },
+    {
+      "question": "I was promised a call back but haven't received it.",
+      "answer": "I’m really sorry for the oversight. I will ensure someone contacts you shortly."
+    },
+    {
+      "question": "The website isn’t loading properly.",
+      "answer": "I apologize for the technical difficulties. Please try refreshing the page or check back later."
+    },
+    {
+      "question": "I have questions about my discharge instructions.",
+      "answer": "I’m sorry for any confusion. What specific instructions would you like clarification on?"
+    },
+    {
+      "question": "I thought my insurance would cover this treatment.",
+      "answer": "I apologize for any misunderstanding. Let me check the details of your insurance coverage."
+    },
+    {
+      "question": "The phone lines are always busy.",
+      "answer": "I’m sorry for the inconvenience. We are experiencing high call volumes, but I’m here to help you now."
+    },
+    {
+      "question": "I was supposed to receive a referral, but I haven’t.",
+      "answer": "I apologize for the delay. Let me check on the status of your referral."
+    },
+    {
+      "question": "I still haven’t received my follow-up appointment.",
+      "answer": "I’m sorry about that. Can you provide me with your last appointment date to help me look into it?"
+    },
+    {
+      "question": "I need clarification on the treatment options.",
+      "answer": "I apologize for any confusion. What specific treatment options would you like to know more about?"
+    },
+    {
+      "question": "My patient portal access is still not working.",
+      "answer": "I’m really sorry for the inconvenience. Let’s troubleshoot your portal access together."
+    },
+    {
+      "question": "I thought the test results would be ready by now.",
+      "answer": "I apologize for the delay. Let me check the status of your test results for you."
+    },
+    {
+      "question": "I don’t understand the billing statement.",
+      "answer": "I’m sorry for the confusion. Please let me know which part of the billing statement is unclear."
+    },
+    {
+      "question": "I wanted to schedule a specific doctor but couldn’t find them.",
+      "answer": "I apologize for any difficulties. Can you tell me the name of the doctor you’re looking for?"
+    },
+    {
+      "question": "I received conflicting information from different staff.",
+      "answer": "I’m really sorry for the inconsistency. Let’s clarify the information you need right now."
+    },
+    {
+      "question": "I don’t remember my appointment details.",
+      "answer": "I apologize for that. Can you provide your name and the date of your appointment so I can assist you?"
+    },
+    {
+      "question": "The prescription refill process is confusing.",
+      "answer": "I’m sorry for the confusion. I can guide you through the prescription refill process step-by-step."
+    },
+    {
+      "question": "I thought I signed up for a different program.",
+      "answer": "I apologize for any misunderstanding. Let’s clarify the program you’re interested in."
+    },
+    {
+      "question": "I need help but don’t know where to start.",
+      "answer": "I’m here to help! What specific assistance do you need? Let’s figure it out together."
+    },
+    {
+      "question": "I’m still waiting for my lab appointment confirmation.",
+      "answer": "I’m really sorry about that. Let me check the status of your lab appointment confirmation."
+    },
+    {
+      "question": "I tried to book an appointment, but it didn’t go through.",
+      "answer": "I apologize for the inconvenience. Let me assist you in booking your appointment now."
+    },
+    {
+      "question": "I can’t find the information about my surgery.",
+      "answer": "I’m sorry for the difficulty. Can you tell me the date of your surgery so I can look it up?"
+    },
+    {
+      "question": "The online chat support isn’t responding.",
+      "answer": "I apologize for the delay. I’m here to help you now. What do you need assistance with?"
+    },
+    {
+      "question": "I received an incorrect bill.",
+      "answer": "I’m really sorry about that. Let’s review the bill together to identify the issue."
+    },
+    {
+      "question": "The waiting time at the clinic was too long.",
+      "answer": "I apologize for the extended wait. Your time is valuable, and we appreciate your patience."
+    },
+    {
+      "question": "I was told I’d get a follow-up call, but I haven’t.",
+      "answer": "I’m sorry for the oversight. I will ensure that someone contacts you shortly."
+    },
+    {
+      "question": "I need a copy of my medical records, but I don’t know how to request them.",
+      "answer": "I apologize for the confusion. I can guide you through the process of requesting your medical records."
+    },
+    {
+      "question": "I received a text about an appointment I didn’t schedule.",
+      "answer": "I’m sorry for the mix-up. Let me check your appointment history to clarify."
+    },
+    {
+      "question": "I can't remember my username for the patient portal.",
+      "answer": "I apologize for the inconvenience. Can I assist you in recovering your username?"
+    },
+    {
+      "question": "I thought the prescription was supposed to be ready by now.",
+      "answer": "I’m really sorry for the delay. Let me check the status of your prescription refill."
+    },
+    {
+      "question": "The online appointment scheduler is not working.",
+      "answer": "I apologize for the inconvenience. Would you like me to assist you with scheduling your appointment manually?"
+    },
+    {
+      "question": "I received a notification about a test result, but I can’t access it.",
+      "answer": "I’m sorry for the difficulty. Let’s resolve this so you can access your test results."
+    },
+    {
+      "question": "I don’t understand the instructions for my medication.",
+      "answer": "I apologize for the confusion. Please tell me which medication you need help with."
+    },
+    {
+      "question": "I was supposed to receive an email confirmation, but I haven’t.",
+      "answer": "I’m really sorry about that. Let me check the status of your email confirmation."
+    },
+    {
+      "question": "I need help navigating the patient portal.",
+      "answer": "I apologize for the difficulty. I can guide you through the features of the patient portal."
+    },
+    {
+      "question": "The referral process seems unclear to me.",
+      "answer": "I’m sorry for the confusion. Let’s go over the referral process together."
+    },
+    {
+      "question": "I wanted to check the availability of a specialist.",
+      "answer": "I apologize for any inconvenience. Can you tell me the name of the specialist you’re looking for?"
+    },
+    {
+      "question": "I was told to complete forms, but I can’t find them.",
+      "answer": "I’m really sorry for the oversight. Let me help you locate the necessary forms."
+    },
+    {
+      "question": "I thought my treatment plan would include follow-up visits.",
+      "answer": "I apologize for any misunderstanding. Let me review your treatment plan to clarify."
+    },
+    {
+      "question": "I can’t log in to my patient account.",
+      "answer": "I’m sorry for the trouble. Let’s troubleshoot your login issue together."
+    }
+    ],
+  "small_talk": [
+    {
+      "question": "How are you doing today?",
+      "answer": "I’m here to help you with any questions you have! How can I assist you?"
+    },
+    {
+      "question": "What’s your favorite part of working here?",
+      "answer": "I enjoy assisting patients like you! What can I help you with today?"
+    },
+    {
+      "question": "Do you like the weather today?",
+      "answer": "I don’t have feelings, but I hope the weather is pleasant for you! How can I help?"
+    },
+    {
+      "question": "What’s the best thing about this hospital?",
+      "answer": "The best part is our dedicated team that cares for patients. How can I assist you further?"
+    },
+    {
+      "question": "Have you seen any good movies lately?",
+      "answer": "I don’t watch movies, but I’d love to help you with any medical queries!"
+    },
+    {
+      "question": "What do you think about pets?",
+      "answer": "Pets can be wonderful companions! Do you have a pet? How can I assist you today?"
+    },
+    {
+      "question": "What’s your favorite food?",
+      "answer": "I don’t eat, but I’m here to help you with any health-related questions!"
+    },
+    {
+      "question": "How’s your day going?",
+      "answer": "I’m ready to assist you! What can I help you with today?"
+    },
+    {
+      "question": "Do you have any hobbies?",
+      "answer": "I focus on assisting you! How can I help you today?"
+    },
+    {
+      "question": "What’s your favorite book?",
+      "answer": "I don’t read books, but I’m here to provide information! How can I assist you?"
+    },
+    {
+      "question": "What kind of music do you like?",
+      "answer": "I don’t listen to music, but I’m here to help you with your questions!"
+    },
+    {
+      "question": "Have you traveled anywhere interesting?",
+      "answer": "I haven’t traveled, but I’m here to assist you with medical information!"
+    },
+    {
+      "question": "What’s your favorite holiday?",
+      "answer": "I don’t celebrate holidays, but I hope you enjoy yours! How can I help you today?"
+    },
+    {
+      "question": "Do you have a favorite sport?",
+      "answer": "I don’t play sports, but I’m always here to assist you with health-related inquiries!"
+    },
+    {
+      "question": "What’s your favorite season?",
+      "answer": "I don’t experience seasons, but I’m here to help you with any medical questions!"
+    },
+    {
+      "question": "Do you like to cook?",
+      "answer": "I don’t cook, but I can provide dietary information if you need it!"
+    },
+    {
+      "question": "What do you do in your free time?",
+      "answer": "I’m always here to assist you! How can I help you today?"
+    },
+    {
+      "question": "Have you learned anything new recently?",
+      "answer": "I’m always learning to assist you better! What can I help you with?"
+    },
+    {
+      "question": "What’s your favorite way to relax?",
+      "answer": "I focus on helping you relax by providing the information you need. How can I assist?"
+    },
+    {
+      "question": "Do you prefer tea or coffee?",
+      "answer": "I don’t drink beverages, but I can assist you with any health-related questions!"
+    },
+    {
+      "question": "What kind of things do you help with?",
+      "answer": "I assist with medical queries, appointment scheduling, and more. How can I help you today?"
+    },
+    {
+      "question": "What’s your favorite way to stay active?",
+      "answer": "I don’t exercise, but I encourage everyone to stay active! How can I assist you?"
+    },
+    {
+      "question": "Do you have any fun facts about health?",
+      "answer": "Sure! Did you know that staying hydrated is crucial for good health? How can I help you today?"
+    },
+    {
+      "question": "What’s something you wish people knew about healthcare?",
+      "answer": "I wish everyone knew that preventive care is key! How can I assist you further?"
+    },
+    {
+      "question": "How do you handle stress?",
+      "answer": "I focus on providing help! If you're feeling stressed, I can assist with relaxation techniques."
+    },
+    {
+      "question": "What do you think is the most important health tip?",
+      "answer": "Regular check-ups are vital for staying healthy! How can I assist you today?"
+    },
+    {
+      "question": "Do you have any recommendations for healthy snacks?",
+      "answer": "Fresh fruits and nuts are great options! What else can I assist you with?"
+    },
+    {
+      "question": "What do you enjoy doing in your downtime?",
+      "answer": "I’m always ready to help! How can I assist you today?"
+    },
+    {
+      "question": "What’s the best advice you can give for a healthy lifestyle?",
+      "answer": "A balanced diet and regular exercise are essential! How can I help you further?"
+    },
+    {
+      "question": "Do you follow any health trends?",
+      "answer": "I don’t follow trends, but I can provide information on popular health topics. How can I assist you?"
+    },
+    {
+      "question": "What’s the most common health issue you encounter?",
+      "answer": "Many people ask about managing stress and anxiety. How can I help you today?"
+    },
+    {
+      "question": "How do you stay up to date with medical knowledge?",
+      "answer": "I’m programmed with the latest information! What can I assist you with?"
+    },
+    {
+      "question": "What’s your favorite healthy recipe?",
+      "answer": "I don’t cook, but I can provide healthy recipes if you need them!"
+    },
+    {
+      "question": "How can I improve my sleep quality?",
+      "answer": "Establishing a regular sleep schedule can help! How else can I assist you?"
+    },
+    {
+      "question": "What’s your opinion on mindfulness?",
+      "answer": "Mindfulness can be very beneficial for mental health! How can I help you with that?"
+    },
+    {
+      "question": "Do you have any tips for staying motivated?",
+      "answer": "Setting small, achievable goals can help! How can I assist you further?"
+    },
+    {
+      "question": "What are the signs of dehydration?",
+      "answer": "Signs include thirst, dry mouth, and fatigue. Do you need help with anything else?"
+    },
+    {
+      "question": "What’s your favorite way to learn new things?",
+      "answer": "I learn through data updates! How can I assist you today?"
+    },
+    {
+      "question": "What do you think about telemedicine?",
+      "answer": "Telemedicine is a great way to access healthcare! How can I help you with that?"
+    },
+    {
+      "question": "What hobbies do you think are good for mental health?",
+      "answer": "Hobbies like reading and gardening can be great! How can I assist you today?"
+    },
+    {
+      "question": "What do you think about exercise?",
+      "answer": "Exercise is essential for maintaining health! How can I assist you with your fitness goals?"
+    },
+    {
+      "question": "Can you recommend some relaxation techniques?",
+      "answer": "Deep breathing and meditation are great for relaxation! Would you like to know more?"
+    },
+    {
+      "question": "How do you handle patient inquiries?",
+      "answer": "I provide information and support to help with any questions. How can I assist you?"
+    },
+    {
+      "question": "What should I do if I feel unwell?",
+      "answer": "It's best to consult a healthcare professional. How can I assist you further?"
+    },
+    {
+      "question": "How important is nutrition?",
+      "answer": "Nutrition plays a crucial role in health! Do you need tips on healthy eating?"
+    },
+    {
+      "question": "What’s the best way to manage stress?",
+      "answer": "Regular exercise and mindfulness can help manage stress! How can I assist you today?"
+    },
+    {
+      "question": "Do you have any tips for maintaining a balanced diet?",
+      "answer": "Incorporating a variety of foods can help maintain balance! What else can I assist you with?"
+    },
+    {
+      "question": "What’s the impact of sleep on health?",
+      "answer": "Sleep is vital for recovery and overall health! Do you need help with sleep tips?"
+    },
+    {
+      "question": "What activities do you recommend for mental wellness?",
+      "answer": "Activities like journaling and art can enhance mental wellness! How can I help you?"
+    },
+    {
+      "question": "What should I do if I have a medical emergency?",
+      "answer": "Call emergency services immediately! How else can I assist you?"
+    },
+    {
+      "question": "How do you think technology is changing healthcare?",
+      "answer": "Technology improves access and efficiency in healthcare! What specific area interests you?"
+    },
+    {
+      "question": "What’s the best way to stay healthy during flu season?",
+      "answer": "Washing hands and getting vaccinated are great preventative measures! How can I help you?"
+    },
+    {
+      "question": "Do you have any advice for dealing with anxiety?",
+      "answer": "Practicing mindfulness and talking to someone can help with anxiety. Would you like more information?"
+    },
+    {
+      "question": "What’s your favorite health-related quote?",
+      "answer": "One of my favorites is, 'Health is wealth.' How can I assist you further?"
+    },
+    {
+      "question": "How can I support a friend who is unwell?",
+      "answer": "Being there to listen and offering help can make a difference! How can I assist you?"
+    },
+    {
+      "question": "What’s the most common question patients ask?",
+      "answer": "Many patients ask about symptoms and treatment options. How can I assist you today?"
+    },
+    {
+      "question": "How can I improve my overall wellness?",
+      "answer": "Focusing on diet, exercise, and mental health can improve overall wellness! What else can I help you with?"
+    },
+    {
+      "question": "What are some signs of stress?",
+      "answer": "Signs include irritability, fatigue, and difficulty concentrating. How can I assist you?"
+    },
+    {
+      "question": "What hobbies do you think can help relieve stress?",
+      "answer": "Hobbies like gardening, reading, or painting can be very relaxing! How can I help you further?"
+    },
+    {
+      "question": "How can I stay motivated to exercise?",
+      "answer": "Setting realistic goals and finding a workout buddy can help! What can I assist you with today?"
+    },
+    {
+      "question": "What’s your opinion on mindfulness practices?",
+      "answer": "Mindfulness practices can greatly enhance mental well-being! Do you want tips on starting?"
+    },
+    {
+      "question": "How can I improve my sleep quality?",
+      "answer": "Establishing a routine and limiting screen time before bed can help! What else can I assist you with?"
+    },
+    {
+      "question": "What role does hydration play in health?",
+      "answer": "Staying hydrated is crucial for bodily functions! Do you need tips on how to stay hydrated?"
+    },
+    {
+      "question": "How important is regular check-ups?",
+      "answer": "Regular check-ups are vital for early detection of health issues! How can I assist you?"
+    },
+    {
+      "question": "What are some quick stress-relief techniques?",
+      "answer": "Deep breathing or taking a short walk can help relieve stress! Would you like to know more?"
+    },
+    {
+      "question": "What can I do to support my immune system?",
+      "answer": "Eating a balanced diet and exercising regularly can boost immunity! What else can I help you with?"
+    },
+    {
+      "question": "How can I encourage my family to be more active?",
+      "answer": "Organizing family activities like hiking or biking can motivate everyone! How can I assist you?"
+    },
+    {
+      "question": "What are some benefits of meditation?",
+      "answer": "Meditation can reduce stress and improve focus! Would you like some techniques to try?"
+    },
+    {
+      "question": "How can I create a healthy work-life balance?",
+      "answer": "Setting boundaries and scheduling time for yourself can help! How can I assist you further?"
+    },
+    {
+      "question": "What’s a good way to track my health goals?",
+      "answer": "Using a journal or an app can help you stay on track! Do you need recommendations?"
+    },
+    {
+      "question": "What should I do if I experience burnout?",
+      "answer": "Taking a break and practicing self-care are important! How can I help you further?"
+    },
+    {
+      "question": "Can you suggest activities for family bonding?",
+      "answer": "Cooking or playing games together can enhance family bonding! What else can I assist you with?"
+    },
+    {
+      "question": "How can I reduce my screen time?",
+      "answer": "Setting limits and engaging in offline activities can help reduce screen time! How can I assist you?"
+    },
+    {
+      "question": "What are some healthy snacks I can try?",
+      "answer": "Fruits, nuts, and yogurt are great healthy snack options! What else can I help with?"
+    },
+    {
+      "question": "How can I manage my time better?",
+      "answer": "Prioritizing tasks and using a planner can improve time management! How can I assist you?"
+    },
+    {
+      "question": "What’s the best way to stay informed about health news?",
+      "answer": "Reputable health websites and news sources can provide reliable information! Do you want specific recommendations?"
+    },
+    {
+      "question": "How can I encourage my children to eat healthier?",
+      "answer": "Involving them in meal planning can motivate healthier eating habits! What else can I assist you with?"
+    },
+    {
+      "question": "What’s a good way to celebrate health achievements?",
+      "answer": "Celebrating with a fun family outing or a healthy treat can be motivating! How can I help you?"
+    },
+    {
+      "question": "How can I find a support group for my condition?",
+      "answer": "Local hospitals and online communities often have support groups! Would you like more information?"
+    },
+    {
+      "question": "What are some signs of dehydration?",
+      "answer": "Signs include thirst, dry mouth, and fatigue. How can I assist you further?"
+    },
+    {
+      "question": "How important is it to keep track of family medical history?",
+      "answer": "It's crucial for understanding hereditary health risks! How can I help you with that?"
+    },
+    {
+      "question": "What should I consider when choosing a healthcare provider?",
+      "answer": "Consider their experience, specialty, and patient reviews! How can I assist you further?"
+    }
+    ],
+  "handling_uncertainty": [
+    {
+      "question": "What if I don't understand my diagnosis?",
+      "answer": "It's important to ask your healthcare provider for clarification. Would you like help formulating questions?"
+    },
+    {
+      "question": "What should I do if I feel overwhelmed by treatment options?",
+      "answer": "Consider discussing your concerns with your doctor. They can help you weigh the pros and cons. How can I assist further?"
+    },
+    {
+      "question": "What if I don't know how to manage my symptoms?",
+      "answer": "It's okay to feel uncertain. You can reach out to your healthcare team for guidance and support! What else can I help with?"
+    },
+    {
+      "question": "How can I cope with not knowing my prognosis?",
+      "answer": "Focusing on what you can control and seeking support can help. Would you like resources for emotional support?"
+    },
+    {
+      "question": "What if I'm scared to ask my doctor questions?",
+      "answer": "Remember that your doctor is there to help you! Writing down your questions can make it easier. How can I assist you?"
+    },
+    {
+      "question": "How should I handle conflicting information about my health?",
+      "answer": "It's best to discuss discrepancies with your healthcare provider to find the most accurate information. Would you like help with this?"
+    },
+    {
+      "question": "What if I'm not sure about the side effects of my medication?",
+      "answer": "You should consult your pharmacist or doctor for detailed information. Would you like help with this?"
+    },
+    {
+      "question": "How can I prepare for unexpected health changes?",
+      "answer": "Staying informed and having a support system can help. Would you like tips on creating a care plan?"
+    },
+    {
+      "question": "What if I don't feel ready for surgery?",
+      "answer": "It's natural to feel anxious. Discuss your concerns with your surgeon to explore your options. How can I assist you further?"
+    },
+    {
+      "question": "How do I deal with uncertainty regarding my treatment plan?",
+      "answer": "Open communication with your healthcare team can clarify uncertainties. Would you like assistance with this?"
+    },
+    {
+      "question": "What if I'm unsure about following my doctor's advice?",
+      "answer": "It's important to discuss any hesitations with your doctor so you can make informed decisions together. How can I assist you?"
+    },
+    {
+      "question": "How can I manage the uncertainty of a new diagnosis?",
+      "answer": "Educating yourself about the condition and seeking support can help you cope. Would you like more resources?"
+    },
+    {
+      "question": "What should I do if I'm uncertain about my test results?",
+      "answer": "Follow up with your healthcare provider to discuss the results and their implications. How can I help you with this?"
+    },
+    {
+      "question": "How do I handle uncertainty about my health insurance coverage?",
+      "answer": "Contact your insurance provider for clarification on your coverage. Would you like assistance in preparing questions for them?"
+    },
+    {
+      "question": "What if I'm feeling anxious about upcoming appointments?",
+      "answer": "Practicing relaxation techniques and preparing questions can help reduce anxiety. Would you like tips on this?"
+    },
+    {
+      "question": "How can I cope with not knowing what to expect from treatment?",
+      "answer": "Learning about the treatment process can provide some clarity. Would you like resources on this?"
+    },
+    {
+      "question": "What should I do if I feel lost in my treatment journey?",
+      "answer": "Consider seeking a patient advocate or support group for guidance. How can I assist you in finding resources?"
+    },
+    {
+      "question": "What if I'm unsure how to manage my mental health during treatment?",
+      "answer": "Seeking help from a mental health professional can provide valuable support. Would you like assistance finding one?"
+    },
+    {
+      "question": "How can I talk to my family about my health uncertainties?",
+      "answer": "Open and honest communication is key. Consider sharing your feelings and inviting their support. How can I help?"
+    },
+    {
+      "question": "What if I'm confused about follow-up care?",
+      "answer": "Contact your healthcare provider for a clear understanding of your follow-up plan. How can I assist you further?"
+    },
+    {
+      "question": "What if I feel overwhelmed by all the medical jargon?",
+      "answer": "Don't hesitate to ask your doctor to explain terms in simpler language. How can I assist you with this?"
+    },
+    {
+      "question": "What should I do if I'm unsure about the benefits of a treatment?",
+      "answer": "Discuss the potential benefits and risks with your healthcare provider. Would you like help formulating questions?"
+    },
+    {
+      "question": "How can I cope with uncertainty about my health condition?",
+      "answer": "Staying informed and connected with support groups can help. Would you like resources for support?"
+    },
+    {
+      "question": "What if I have doubts about the treatment plan suggested?",
+      "answer": "It’s important to voice your concerns to your healthcare provider. How can I assist you in preparing for that conversation?"
+    },
+    {
+      "question": "How can I deal with uncertainty after receiving a second opinion?",
+      "answer": "Take time to weigh the information and discuss it with your doctor. Would you like tips on this?"
+    },
+    {
+      "question": "What should I do if I'm not sure about the hospital policies?",
+      "answer": "Contact the hospital's information desk for clarification on policies. How can I help you with this?"
+    },
+    {
+      "question": "How can I manage my anxiety about upcoming procedures?",
+      "answer": "Practicing mindfulness and speaking with your healthcare team can help ease anxiety. Would you like some relaxation techniques?"
+    },
+    {
+      "question": "What if I'm confused about my medication regimen?",
+      "answer": "Consult your pharmacist or doctor to clarify your medication schedule. How can I assist you with that?"
+    },
+    {
+      "question": "How can I prepare for uncertainties during my recovery?",
+      "answer": "Having a support system and a plan for possible complications can help. Would you like resources on recovery planning?"
+    },
+    {
+      "question": "What if I'm unsure about attending support groups?",
+      "answer": "Consider attending a meeting as an observer first to see if it’s right for you. How can I assist you in finding one?"
+    },
+    {
+      "question": "How do I handle uncertainty when transitioning to a new doctor?",
+      "answer": "Bring your medical history and discuss your concerns with the new doctor. Would you like tips on how to approach this?"
+    },
+    {
+      "question": "What if I’m worried about potential side effects of my treatment?",
+      "answer": "Discuss your concerns with your healthcare provider to better understand what to expect. How can I help you with this?"
+    },
+    {
+      "question": "How should I cope with uncertainties in my care plan?",
+      "answer": "Regular communication with your healthcare team can help clarify uncertainties. Would you like assistance with this?"
+    },
+    {
+      "question": "What if I'm feeling uncertain about lifestyle changes after treatment?",
+      "answer": "Consult with a nutritionist or lifestyle coach for guidance. Would you like help finding one?"
+    },
+    {
+      "question": "How can I address uncertainties regarding my insurance coverage for treatments?",
+      "answer": "Contact your insurance provider to clarify your coverage details. How can I assist you with questions for them?"
+    },
+    {
+      "question": "What if I'm unsure how to talk to my family about my condition?",
+      "answer": "Consider writing down your thoughts and feelings to share with them. How can I assist you with this?"
+    },
+    {
+      "question": "How can I deal with the uncertainty of a long-term illness?",
+      "answer": "Building a support network and seeking counseling can provide relief. Would you like more information on this?"
+    },
+    {
+      "question": "What should I do if I’m not sure about the right questions to ask my doctor?",
+      "answer": "It's helpful to prepare a list of topics you'd like to discuss. Would you like help in creating that list?"
+    },
+    {
+      "question": "What if I'm uncertain about the results of my tests?",
+      "answer": "It's normal to feel anxious. Discuss your concerns with your doctor during your next appointment."
+    },
+    {
+      "question": "How can I manage my fear of an uncertain diagnosis?",
+      "answer": "Focus on what you can control, such as staying informed and seeking support from loved ones."
+    },
+    {
+      "question": "What should I do if I'm confused about follow-up appointments?",
+      "answer": "Reach out to your healthcare provider for clarification on scheduling and necessary follow-ups."
+    },
+    {
+      "question": "How can I cope with uncertainty surrounding a treatment trial?",
+      "answer": "Research the trial thoroughly and discuss your concerns with your healthcare team before making a decision."
+    },
+    {
+      "question": "What if I’m unsure how to interpret my lab results?",
+      "answer": "Ask your doctor to explain the results and their implications in detail."
+    },
+    {
+      "question": "How should I address uncertainty about my health insurance coverage?",
+      "answer": "Contact your insurance company or hospital billing department for detailed information on your coverage."
+    },
+    {
+      "question": "What if I'm uncertain about the side effects of my medication?",
+      "answer": "Review the medication guide or consult your pharmacist to understand potential side effects."
+    },
+    {
+      "question": "How can I deal with uncertainty about my family history of illness?",
+      "answer": "Discuss your family history with your healthcare provider to determine any necessary screenings or precautions."
+    },
+    {
+      "question": "What should I do if I'm confused about the instructions after a procedure?",
+      "answer": "Don’t hesitate to ask your healthcare team for a clearer explanation or written instructions."
+    },
+    {
+      "question": "How can I cope with the uncertainty of a new diagnosis?",
+      "answer": "Educate yourself about your condition and connect with support groups for guidance."
+    },
+    {
+      "question": "What if I’m worried about the uncertainties of post-operative care?",
+      "answer": "Ask your surgeon about expected recovery times and signs to watch for post-surgery."
+    },
+    {
+      "question": "How should I approach uncertainty regarding lifestyle changes after a health scare?",
+      "answer": "Consult a healthcare provider or dietitian to create a manageable plan for changes."
+    },
+    {
+      "question": "What if I feel uncertain about the need for further tests?",
+      "answer": "Discuss the reasoning and necessity of the tests with your healthcare provider."
+    },
+    {
+      "question": "How can I manage uncertainty while waiting for test results?",
+      "answer": "Engage in activities that relax you and keep your mind occupied while you wait."
+    },
+    {
+      "question": "What if I'm not sure about the credibility of online health information?",
+      "answer": "Always cross-check information with reliable sources or consult your healthcare provider."
+    },
+    {
+      "question": "How can I prepare for uncertainties during my hospital stay?",
+      "answer": "Bring a notebook to jot down any questions or concerns that arise while you're there."
+    },
+    {
+      "question": "What should I do if I'm confused about how to transition from hospital to home care?",
+      "answer": "Request a discharge planner to help you understand your aftercare needs."
+    },
+    {
+      "question": "How can I cope with uncertainty related to a chronic condition?",
+      "answer": "Stay engaged with your healthcare team and seek peer support for ongoing management."
+    },
+    {
+      "question": "What if I feel uncertain about my symptoms?",
+      "answer": "It's important to communicate any concerns to your doctor for proper evaluation."
+    },
+    {
+      "question": "How should I handle uncertainty about my follow-up tests?",
+      "answer": "Stay in touch with your healthcare provider for updates and clarifications about the next steps."
+    },
+    {
+      "question": "What can I do if I'm worried about my prognosis?",
+      "answer": "Discuss your fears with your doctor to gain a better understanding of your situation."
+    },
+    {
+      "question": "What if I'm not sure about the dietary restrictions after surgery?",
+      "answer": "Consult your healthcare provider or dietitian for specific guidance tailored to your recovery."
+    },
+    {
+      "question": "How can I manage uncertainty regarding treatment options?",
+      "answer": "Research thoroughly and discuss the pros and cons of each option with your doctor."
+    },
+    {
+      "question": "What if I'm uncertain about how to talk to my family about my health issues?",
+      "answer": "Consider writing down your thoughts or involving a healthcare provider to help facilitate the conversation."
+    },
+    {
+      "question": "How should I approach uncertainty about my health insurance benefits?",
+      "answer": "Review your policy details and reach out to your insurance provider for clarity."
+    },
+    {
+      "question": "What can I do if I'm feeling overwhelmed by uncertainty after a diagnosis?",
+      "answer": "Seek support from mental health professionals or support groups to help manage your feelings."
+    },
+    {
+      "question": "What should I do if I'm unsure about my medication schedule?",
+      "answer": "Keep a medication log and consult your pharmacist or doctor for assistance."
+    },
+    {
+      "question": "How can I deal with uncertainty about my physical therapy progress?",
+      "answer": "Regularly communicate with your therapist about your concerns and progress."
+    },
+    {
+      "question": "What if I'm worried about the long-term effects of my treatment?",
+      "answer": "Discuss any concerns with your healthcare provider to understand the benefits and risks involved."
+    },
+    {
+      "question": "How can I address uncertainty in my treatment plan?",
+      "answer": "Ask your doctor to explain the rationale behind each step of your treatment plan."
+    },
+    {
+      "question": "What if I'm unsure about when to seek emergency care?",
+      "answer": "Familiarize yourself with warning signs and don't hesitate to contact your healthcare provider for guidance."
+    },
+    {
+      "question": "How should I handle uncertainty regarding a referral to a specialist?",
+      "answer": "Communicate with your primary care provider to understand the reasons for the referral and what to expect."
+    },
+    {
+      "question": "What can I do if I feel uncertain about my ability to follow through with my care plan?",
+      "answer": "Identify specific barriers and discuss them with your healthcare team for support and resources."
+    },
+    {
+      "question": "How can I cope with uncertainty during a hospital stay?",
+      "answer": "Ask staff for updates on your care and stay engaged in your recovery process."
+    },
+    {
+      "question": "What if I'm not sure how to prepare for my discharge?",
+      "answer": "Request a checklist from your healthcare team to ensure you have all necessary information and supplies."
+    },
+    {
+      "question": "How should I approach uncertainty regarding a family member's health condition?",
+      "answer": "Keep open lines of communication with healthcare providers and involve your family member in discussions."
+    },
+    {
+      "question": "What if I'm confused about the next steps after an emergency visit?",
+      "answer": "Reach out to your primary care provider to discuss follow-up care and any necessary actions."
+    }
+  ]
+}
