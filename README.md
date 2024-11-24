@@ -13,15 +13,11 @@ This repository contains a retrieval-based Question and Answer (Q&A) system that
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 
----
-
 ## Features
 - **Streamlit UI**: A user-friendly interface for submitting queries and displaying results.
 - **ChromaDB Integration**: Persistent vector database to store and retrieve embeddings for question-answer pairs.
 - **Preprocessing**: Automatic text preprocessing for consistent query handling.
 - **Top-k Retrieval**: Retrieves the top-k relevant responses for a given user query.
-
----
 
 ## Directory Structure
 
@@ -36,6 +32,7 @@ Retrieval/
 ├── chromaDB_query_handler.py
 ├── retrieval_ui.py
 ```
+
 ## Installation
 - **Clone this repository:**
 
@@ -43,33 +40,36 @@ Retrieval/
 git clone https://github.com/your-username/RAG-basics.git
 cd RAG-basics/Retrieval
 ```
-Install required dependencies:
+- **Install required dependencies:**
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
-Run the setup script to initialize ChromaDB and load the Q&A pairs:
+```
+- **Run the setup script to initialize ChromaDB and load the Q&A pairs:**
 
-bash
-Copy code
+```bash
 python setup-chrom-db.py
-Usage
-Start the Streamlit application:
+```
 
-bash
-Copy code
+## Usage
+- **Start the Streamlit application:**
+
+```bash
 streamlit run retrieval_ui.py
+```
 Open the URL provided by Streamlit in your browser (e.g., http://localhost:8501).
 
-Interact with the application:
+- **Interact with the application:**
 
-Enter your query in the input box.
-Click Get Response to see the retrieved answer.
-File Descriptions
-retrieval_ui.py
+  - Enter your query in the input box.
+  - Click Get Response to see the retrieved answer.
+## File Descriptions
+- ```retrieval_ui.py```
+
 Provides a graphical user interface for users to interact with the Q&A system.
 Displays the retrieved answer based on the input query.
-setup-chrom-db.py
+- ```setup-chrom-db.py```
+
 Loads the Q&A pairs from the JSON file.
 Encodes questions using a pre-trained SentenceTransformer model.
 Stores embeddings and metadata in a ChromaDB collection.
