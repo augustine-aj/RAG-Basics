@@ -14,7 +14,6 @@ Welcome to the Ollama 3.2 ChatBot repository! This project features an interacti
 - [Project Structure](#project-structure)
 - [Example Interaction](#example-interaction)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -37,7 +36,7 @@ To run the chatbot, you need Python 3.x installed on your local machine.
 
 You also need to install the following tools:
 
-- **Ollama 3.2**: The chatbot relies on this model for generating responses. Follow the [Ollama Setup Guide](https://ollama.com/docs) for installing Ollama models on your local system.
+- **Ollama 3.2**: The chatbot relies on this model for generating responses. Follow the [Ollama Setup Guide](https://ollama.com) for installing Ollama models on your local system.
 - **Langchain**: A Python library used for integrating the Ollama model.
 - **Streamlit**: A library used for building the web interface.
 
@@ -55,8 +54,8 @@ This will install all the necessary libraries, including `langchain` and `stream
 ## Setting Up Ollama 3.2
 To use the Ollama 3.2 model locally, you need to install it on your system. Follow these steps:
 
-**1. Install Ollama:** You can install Ollama by following the official installation guide on the Ollama website.
-**2. Download the LLM Model:** Ensure that the `llama3.2` model is available and set up on your local machine.If it not downloaded then dowload it from here.
+**1. Install Ollama:** You can install Ollama by following the official installation guide on the [Ollama website](https://ollama.com/).
+**2. Download the LLM Model:** Ensure that the `llama3.2` model is available and set up on your local machine.If it not downloaded then dowload it from [here](https://ollama.com/library/llama3.2).
 
 ## Running the Application
 **1. Start the Streamlit App:** To run the chatbot interface, execute the following command in the terminal:
