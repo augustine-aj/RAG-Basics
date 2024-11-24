@@ -54,8 +54,8 @@ This will install all the necessary libraries, including `langchain` and `stream
 ## Setting Up Ollama 3.2
 To use the Ollama 3.2 model locally, you need to install it on your system. Follow these steps:
 
-**1. Install Ollama:** You can install Ollama by following the official installation guide on the [Ollama website](https://ollama.com/).
-**2. Download the LLM Model:** Ensure that the `llama3.2` model is available and set up on your local machine.If it not downloaded then dowload it from [here](https://ollama.com/library/llama3.2).
+- **1. Install Ollama:** You can install Ollama by following the official installation guide on the [Ollama website](https://ollama.com/).
+- **2. Download the LLM Model:** Ensure that the `llama3.2` model is available and set up on your local machine.If it not downloaded then dowload it from [here](https://ollama.com/library/llama3.2).
 
 ## Running the Application
 **1. Start the Streamlit App:** To run the chatbot interface, execute the following command in the terminal:
