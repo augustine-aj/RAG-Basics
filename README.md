@@ -36,7 +36,7 @@ Retrieval/
 - **Clone this repository:**
 
 ```bash
-[git clone https://github.com/augustine-aj/RAG-basics.git](https://github.com/augustine-aj/RAG-Basics.git)
+git clone https://github.com/augustine-aj/RAG-basics.git
 cd RAG-basics/Retrieval
 ```
 - **Install required dependencies:**
