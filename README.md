@@ -66,19 +66,20 @@ Open the URL provided by Streamlit in your browser (e.g., http://localhost:8501)
 ## File Descriptions
 ```retrieval_ui.py```
 
-Provides a graphical user interface for users to interact with the Q&A system.
-Displays the retrieved answer based on the input query.
-```setup-chrom-db.py```
+- Provides a graphical user interface for users to interact with the Q&A system.
+- Displays the retrieved answer based on the input query.
+```setup_chromaDB.py```
 
-Loads the Q&A pairs from the JSON file.
-Encodes questions using a pre-trained SentenceTransformer model.
-Stores embeddings and metadata in a ChromaDB collection.
-chromaDB_query_handler.py
-Handles user queries by encoding them into embeddings and querying ChromaDB for the most relevant responses.
-Implements utility functions like setup_chroma_client() and retrieve_documents().
-Future Improvements
-Error Handling: Improve error handling for missing files or incorrect input formats.
-Scalability: Optimize embedding storage and retrieval for larger datasets.
-Advanced Retrieval: Add semantic search capabilities for complex queries.
-Web Scraping: Dynamically update the Q&A database with web-scraped data.
-Multilingual Support: Extend support for queries in multiple languages.
+- Loads the Q&A pairs from the JSON file.
+- Encodes questions using a pre-trained SentenceTransformer model.
+- Stores embeddings and metadata in a ChromaDB collection.
+```chromaDB_query_handler.py```
+- Handles user queries by encoding them into embeddings and querying ChromaDB for the most relevant responses.
+- Implements utility functions like setup_chroma_client() and retrieve_documents().
+- 
+## Future Improvements
+- **Error Handling:** Improve error handling for missing files or incorrect input formats.
+- **Scalability:** Optimize embedding storage and retrieval for larger datasets.
+- **Advanced Retrieval:** Add semantic search capabilities for complex queries.
+- **Web Scraping:** Dynamically update the Q&A database with web-scraped data.
+- **Multilingual Support:** Extend support for queries in multiple languages.
