@@ -32,7 +32,7 @@ Retrieval/
 │   │   └── chatbot_basic_conversations.json
 │   ├── Chroma DB/
 │   │   └── chatbot basic conversations/
-├── setup-chrom-db.py
+├── setup_chromDB.py
 ├── chromaDB_query_handler.py
 ├── retrieval_ui.py
 ```
