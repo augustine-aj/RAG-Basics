@@ -11,7 +11,6 @@ This repository contains a retrieval-based Question and Answer (Q&A) system that
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
 
 ## Features
 - **Streamlit UI**: A user-friendly interface for submitting queries and displaying results.
@@ -48,7 +47,7 @@ pip install -r requirements.txt
 - **Run the setup script to initialize ChromaDB and load the Q&A pairs:**
 
 ```bash
-python setup-chrom-db.py
+python setup_chromaDB.py
 ```
 
 ## Usage
