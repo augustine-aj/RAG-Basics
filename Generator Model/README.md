@@ -41,6 +41,12 @@ You also need to install the following tools:
 - **Streamlit**: A library used for building the web interface.
 
 ### Installing Dependencies
+- **Clone this repository:**
+
+```bash
+git clone https://github.com/augustine-aj/RAG-basics.git
+cd RAG-basics/Generator Model
+```
 
 You can install the required dependencies by using the `requirements.txt` file in this repository.
 
