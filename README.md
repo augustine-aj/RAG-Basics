@@ -64,11 +64,11 @@ Open the URL provided by Streamlit in your browser (e.g., http://localhost:8501)
   - Enter your query in the input box.
   - Click Get Response to see the retrieved answer.
 ## File Descriptions
-- ```retrieval_ui.py```
+```retrieval_ui.py```
 
 Provides a graphical user interface for users to interact with the Q&A system.
 Displays the retrieved answer based on the input query.
-- ```setup-chrom-db.py```
+```setup-chrom-db.py```
 
 Loads the Q&A pairs from the JSON file.
 Encodes questions using a pre-trained SentenceTransformer model.
