@@ -36,3 +36,49 @@ Retrieval/
 ├── chromaDB_query_handler.py
 ├── retrieval_ui.py
 ```
+## Installation
+- **Clone this repository:**
+
+```bash
+git clone https://github.com/your-username/RAG-basics.git
+cd RAG-basics/Retrieval
+```
+Install required dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the setup script to initialize ChromaDB and load the Q&A pairs:
+
+bash
+Copy code
+python setup-chrom-db.py
+Usage
+Start the Streamlit application:
+
+bash
+Copy code
+streamlit run retrieval_ui.py
+Open the URL provided by Streamlit in your browser (e.g., http://localhost:8501).
+
+Interact with the application:
+
+Enter your query in the input box.
+Click Get Response to see the retrieved answer.
+File Descriptions
+retrieval_ui.py
+Provides a graphical user interface for users to interact with the Q&A system.
+Displays the retrieved answer based on the input query.
+setup-chrom-db.py
+Loads the Q&A pairs from the JSON file.
+Encodes questions using a pre-trained SentenceTransformer model.
+Stores embeddings and metadata in a ChromaDB collection.
+chromaDB_query_handler.py
+Handles user queries by encoding them into embeddings and querying ChromaDB for the most relevant responses.
+Implements utility functions like setup_chroma_client() and retrieve_documents().
+Future Improvements
+Error Handling: Improve error handling for missing files or incorrect input formats.
+Scalability: Optimize embedding storage and retrieval for larger datasets.
+Advanced Retrieval: Add semantic search capabilities for complex queries.
+Web Scraping: Dynamically update the Q&A database with web-scraped data.
+Multilingual Support: Extend support for queries in multiple languages.
